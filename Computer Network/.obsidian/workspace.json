@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b1cb3d3f63eede32",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c1c32f3060c86b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86902202f304092b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230619101837.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba4a71eae64f0329",
+    "type": "split",
+    "children": [
+      {
+        "id": "b487b6eebfd88a7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5898538537be9b1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ba9bf30324c60da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e914e3fe733f1c21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e451e51b67c875be",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e4b04b57e7f147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2278fae16123168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20230619101837.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b68332101845d589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20230619101837.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e601012d0a8e177b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8e00c9f52f1ee84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20230619101837.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "86902202f304092b",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-07-04 16.03.56.excalidraw.md",
+    "Excalidraw",
+    "计算机网络-应用层.md",
+    "计算机网络-控制平面.md",
+    "计算机网络-链路层和局域网.md",
+    "计算机网络和因特网.md",
+    "多媒体网络.md",
+    "计算机网络中的安全.md",
+    "计算机网络-无线网络和移动网络.md",
+    "Pasted image 20230619101837.png",
+    "Drawing 2023-06-26 21.25.56.excalidraw.md",
+    "Pasted image 20230626125458.png",
+    "Pasted image 20230626125744.png",
+    "Pasted image 20230624102837.png",
+    "计算机网络-链路层.md",
+    "Drawing 2023-06-26 12.44.01.excalidraw.md",
+    "CSMA/CS计算机网络-链路层.md",
+    "CSMA",
+    "未命名.canvas",
+    "2023-06-26.md",
+    "Drawing 2023-06-26 12.55.56.excalidraw.md",
+    "Excalidraw/Drawing 2023-06-26 16.54.52.excalidraw.md",
+    "Drawing 2023-06-26 12.41.50.excalidraw.md",
+    "未命名.md",
+    "Pasted image 20230619101922.png.md",
+    "Pasted image 20230619101747.png",
+    "Pasted image 20230619101922.png"
+  ]
+}
