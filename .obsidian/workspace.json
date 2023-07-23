@@ -10,30 +10,27 @@
           {
             "id": "7f1dbf7af9e1542d",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "2c970d2407d847a8",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/多媒体网络.md",
+                "file": "Computer Network/计算机网络和因特网.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "b8260b6cd63e1efe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec12adf011937aad",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/多媒体网络.md",
+                "file": "Computer Network/计算机网络和因特网.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/多媒体网络.md",
+                "file": "Computer Network/计算机网络和因特网.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/多媒体网络.md"
+                "file": "Computer Network/计算机网络和因特网.md"
               }
             }
           },
@@ -163,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,24 +174,24 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7f1dbf7af9e1542d",
+  "active": "2c970d2407d847a8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-22 16.44.50.excalidraw.md",
+    "Computer Network/计算机网络中的安全.md",
+    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/多媒体网络.md",
     "Computer Network/计算机网络.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络和因特网.md",
-    "Computer Network/计算机网络中的安全.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
+    "Excalidraw/Drawing 2023-07-22 16.44.50.excalidraw.md",
     "Computer Network/Pasted image 20230626125458.png",
     "Computer Network/Pasted image 20230619101837.png",
     "Computer Network/Pasted image 20230624102837.png",
     "Excalidraw/Drawing 2023-07-22 14.51.07.excalidraw.md",
     "Excalidraw/Drawing 2023-07-22 11.06.46.excalidraw.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/Pasted image 20230626125744.png",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "Pasted image 20230709155357.png",
