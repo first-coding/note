@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "29a16faef6363e2e",
+            "id": "74b9fdc0d29babb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络和因特网.md",
+                "file": "Computer Network/计算机网络-应用层.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络和因特网.md",
+                "file": "Computer Network/计算机网络-应用层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络和因特网.md",
+                "file": "Computer Network/计算机网络-应用层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络和因特网.md"
+                "file": "Computer Network/计算机网络-应用层.md"
               }
             }
           },
@@ -175,23 +175,24 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "29a16faef6363e2e",
+  "active": "74b9fdc0d29babb7",
   "lastOpenFiles": [
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/Pasted image 20230624102837.png",
+    "Excalidraw/Drawing 2023-06-27 11.16.44.excalidraw.md",
     "Computer Network/多媒体网络.md",
     "Computer Network/计算机网络.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
     "README.md",
     "Excalidraw/Drawing 2023-07-22 16.44.50.excalidraw.md",
     "Computer Network/Pasted image 20230626125458.png",
     "Computer Network/Pasted image 20230619101837.png",
-    "Computer Network/Pasted image 20230624102837.png",
     "Excalidraw/Drawing 2023-07-22 14.51.07.excalidraw.md",
     "Excalidraw/Drawing 2023-07-22 11.06.46.excalidraw.md",
     "Computer Network/Pasted image 20230626125744.png",
@@ -203,7 +204,6 @@
     "2023-07-07.md",
     "Excalidraw/Drawing 2023-06-28 11.38.55.excalidraw.md",
     "Excalidraw/Drawing 2023-06-26 21.25.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-27 11.16.44.excalidraw.md",
     "Computer Network/Excalidraw/Drawing 2023-07-04 16.03.56.excalidraw.md",
     "Computer Network/Excalidraw",
     "Computer Network/Drawing 2023-06-26 21.25.56.excalidraw.md",
@@ -211,7 +211,6 @@
     "计算机基础知识.md",
     "Excalidraw/Drawing 2023-06-28 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2023-06-28 17.05.40.excalidraw.md",
-    "Computer Network/Drawing 2023-06-28 15.55.41.excalidraw.md",
     "未命名.canvas",
     "Excalidraw",
     "未命名"
