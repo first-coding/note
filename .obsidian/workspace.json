@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38962f75fb48b078",
+        "id": "47e7eba41818fcfc",
         "type": "tabs",
         "children": [
           {
-            "id": "a6b4c67ae4e47eb0",
+            "id": "fb89c0fbbf06f1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 216.5
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,16 +164,52 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a6b4c67ae4e47eb0",
+  "floating": {
+    "id": "f7ee76b67c6eb823",
+    "type": "floating",
+    "children": [
+      {
+        "id": "85f51d278def32b0",
+        "type": "window",
+        "children": [
+          {
+            "id": "c0914e4019f0583b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eacbdb67df7b27b4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-08-02 16.03.20.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "fb89c0fbbf06f1d1",
   "lastOpenFiles": [
+    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络和因特网.md",
+    "Excalidraw/Drawing 2023-08-02 16.03.20.excalidraw.md",
     "Computer Network/计算机网络-应用层.md",
-    "Excalidraw/Drawing 2023-07-28 16.03.57.excalidraw.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络中的安全.md",
+    "Excalidraw/Drawing 2023-07-28 16.03.57.excalidraw.md",
     "Excalidraw/Drawing 2023-07-28 15.29.22.excalidraw.md",
     "Excalidraw/Pasted image 20230709155357.png",
-    "Computer Network/计算机网络-运输层.md",
-    "Computer Network/计算机网络中的安全.md",
     "Excalidraw/Pasted image 20230626125744.png",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-数据平面.md",
