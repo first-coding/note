@@ -164,47 +164,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "floating": {
-    "id": "2662b774a4d4d1dd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ea9910d0009c53ec",
-        "type": "window",
-        "children": [
-          {
-            "id": "b3a73fefd7ae9f19",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e4a2e4e834878071",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-08-10 17.13.18.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "dce3d88f25886186",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-10 17.13.18.excalidraw.md",
+    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-应用层.md",
-    "Excalidraw/Drawing 2023-08-10 17.13.18.excalidraw.md",
     "Excalidraw/Drawing 2023-08-10 16.38.20.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 16.41.36.excalidraw.md",
     "Excalidraw/Drawing 2023-08-05 16.48.40.excalidraw.md",
@@ -212,7 +178,6 @@
     "Excalidraw/Drawing 2023-08-09 17.02.21.excalidraw.md",
     "Excalidraw/Drawing 2023-08-10 15.41.28.excalidraw.md",
     "Excalidraw/Drawing 2023-08-04 15.09.35.excalidraw.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
