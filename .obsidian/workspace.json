@@ -164,10 +164,46 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
+  "floating": {
+    "id": "a631ab87bfaf989f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "84daf775104799dd",
+        "type": "window",
+        "children": [
+          {
+            "id": "15c8a694db8a0386",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "779f99c7232eb4d1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-08-12 14.29.57.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "dce3d88f25886186",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-10 17.13.18.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-12 14.29.57.excalidraw.md",
     "Computer Network/计算机网络-运输层.md",
+    "Excalidraw/Drawing 2023-08-10 17.13.18.excalidraw.md",
     "Computer Network/计算机网络.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-应用层.md",
@@ -197,7 +233,6 @@
     "code",
     "新建文件夹",
     "Excalidraw/Drawing 2023-08-04 15.04.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-02 16.03.20.excalidraw.md",
     "Excalidraw/Pasted image 20230709155357.png",
     "Excalidraw/Pasted image 20230626125744.png",
     "Excalidraw/Pasted image 20230619101837.png",
