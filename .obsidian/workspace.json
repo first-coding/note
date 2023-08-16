@@ -164,41 +164,6 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "floating": {
-    "id": "52a792b49b21841e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "41eb667bd42a0581",
-        "type": "window",
-        "children": [
-          {
-            "id": "c32d02084e135e7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "12c0e052f586f4b1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/Drawing 2023-08-15 17.12.30.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "527a7f6f229e336d",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-08-15 17.12.30.excalidraw.md",
