@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络-运输层.md",
+                "file": "Excalidraw/Drawing 2023-08-21 17.55.58.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络-运输层.md",
+                "file": "Excalidraw/Drawing 2023-08-21 17.55.58.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络-运输层.md"
+                "file": "Excalidraw/Drawing 2023-08-21 17.55.58.excalidraw.md"
               }
             }
           },
@@ -164,10 +164,46 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "527a7f6f229e336d",
+  "floating": {
+    "id": "9bb237c79adabaa9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2cb89b754950617f",
+        "type": "window",
+        "children": [
+          {
+            "id": "0af9fe49f69ab2ae",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "caeac5f928e74d34",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2023-08-21 17.55.58.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "caeac5f928e74d34",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-08-15 17.12.30.excalidraw.md",
     "Computer Network/计算机网络-运输层.md",
+    "Excalidraw/Drawing 2023-08-21 17.55.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-15 17.12.30.excalidraw.md",
     "Excalidraw/Drawing 2023-08-15 16.49.26.excalidraw.md",
     "Excalidraw/Drawing 2023-08-15 16.55.52.excalidraw.md",
     "Excalidraw/Drawing 2023-08-14 16.30.16.excalidraw.md",
@@ -191,7 +227,6 @@
     "Excalidraw/Drawing 2023-06-28 15.55.50.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 17.26.11.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 16.38.48.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-09 16.27.42.excalidraw.md",
     "code/TCPClient.py",
     "code/TCPServer.py",
     "code/UDPServer.py",
