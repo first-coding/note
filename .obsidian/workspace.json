@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络-数据平面.md",
+                "file": "Computer Network/计算机网络-控制平面.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 305.5
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络-数据平面.md",
+                "file": "Computer Network/计算机网络-控制平面.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络-数据平面.md",
+                "file": "Computer Network/计算机网络-控制平面.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络-数据平面.md"
+                "file": "Computer Network/计算机网络-控制平面.md"
               }
             }
           },
@@ -164,58 +164,26 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "floating": {
-    "id": "934f53cd33fd5d4d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "65b5aa842ed9bd9e",
-        "type": "window",
-        "children": [
-          {
-            "id": "b917aea71ffa4d7d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "928a7298305d1c76",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e9f1f6725fe23a60",
   "lastOpenFiles": [
-    "Computer Network/计算机网络-数据平面.md",
-    "Excalidraw/Drawing 2023-09-05 16.50.59.excalidraw.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络.md",
+    "2023-08-07.md",
+    "Computer Network/计算机网络-应用层.md",
+    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Excalidraw/Drawing 2023-09-05 16.50.59.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-05 16.17.18.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 18.30.28.excalidraw.md",
-    "Computer Network/计算机网络和因特网.md",
     "计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
     "Computer Network/计算机网络中的安全.md",
     "Excalidraw/计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
-    "Computer Network/计算机网络-控制平面.md",
     "Excalidraw/计算机网络-数据平面 2023-09-02 14.30.31.excalidraw.md",
     "Excalidraw/Drawing 2023-09-01 15.22.51.excalidraw.md",
     "Excalidraw/Drawing 2023-06-28 15.55.50.excalidraw.md",
@@ -224,7 +192,6 @@
     "Excalidraw/Drawing 2023-08-30 17.13.06.excalidraw.md",
     "Excalidraw/Drawing 2023-08-30 15.45.43.excalidraw.md",
     "Excalidraw/Drawing 2023-08-25 16.35.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-30 17.16.06.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
