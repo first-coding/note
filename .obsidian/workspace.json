@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8da5499b0aa6e8a3",
+        "id": "4a6fab08b268df27",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f1f6725fe23a60",
+            "id": "7e8db5291aec27e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 343.5
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -144,6 +144,16 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "937596b1f8f5eb57",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -164,34 +174,34 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e9f1f6725fe23a60",
+  "active": "7e8db5291aec27e5",
   "lastOpenFiles": [
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/多媒体网络.md",
-    "Computer Network/计算机网络.md",
-    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络中的安全.md",
+    "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/多媒体网络.md",
+    "Computer Network/计算机网络.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Excalidraw/计算机网络-控制平面 2023-09-15 23.22.58.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 23.32.21.excalidraw.md",
+    "Excalidraw/计算机网络-控制平面 2023-09-15 23.14.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 23.31.51.excalidraw.md",
+    "Excalidraw/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
+    "Excalidraw/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
+    "Excalidraw/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
+    "Excalidraw/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 16.43.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-15 17.12.54.excalidraw.md",
     "2023-08-07.md",
     "Excalidraw/Drawing 2023-09-05 16.50.59.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-05 16.17.18.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 18.30.28.excalidraw.md",
     "计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-02 14.30.31.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 15.22.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-06-28 15.55.50.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-01 15.08.56.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-30 17.04.19.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-30 17.13.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-30 15.45.43.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
