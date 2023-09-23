@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络-控制平面.md",
+                "file": "operating systems/虚拟内存.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "891d70945a0c0676",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png",
+                "file": "operating systems/虚拟内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png",
+                "file": "operating systems/虚拟内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png"
+                "file": "operating systems/虚拟内存.md"
               }
             }
           },
@@ -185,10 +174,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "09c04dd40332eb3a",
+  "active": "7e8db5291aec27e5",
   "lastOpenFiles": [
-    "Computer Network/多媒体网络.md",
     "Computer Network/计算机网络-控制平面.md",
+    "operating systems/虚拟内存.md",
+    "Computer Network/多媒体网络.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-运输层.md",
@@ -213,7 +203,6 @@
     "Excalidraw/Drawing 2023-09-05 16.50.59.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-05 16.17.18.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 18.30.28.excalidraw.md",
-    "计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
