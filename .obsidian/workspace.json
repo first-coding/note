@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "891d70945a0c0676",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络-控制平面.md",
+                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络-控制平面.md",
+                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络-控制平面.md"
+                "file": "Computer Network/img/屏幕截图 2023-09-06 094548.png"
               }
             }
           },
@@ -174,18 +185,21 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7e8db5291aec27e5",
+  "active": "09c04dd40332eb3a",
   "lastOpenFiles": [
-    "Computer Network/计算机网络-链路层和局域网.md",
+    "Computer Network/多媒体网络.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络-应用层.md",
+    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络和因特网.md",
-    "Computer Network/计算机网络-运输层.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/多媒体网络.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络.md",
-    "Computer Network/计算机网络-控制平面.md",
+    "计算机基础知识.md",
+    "2023-08-07.md",
+    "operating systems",
     "Excalidraw/计算机网络-控制平面 2023-09-15 23.22.58.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 23.32.21.excalidraw.md",
     "Excalidraw/计算机网络-控制平面 2023-09-15 23.14.36.excalidraw.md",
@@ -196,12 +210,10 @@
     "Excalidraw/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 16.43.17.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 17.12.54.excalidraw.md",
-    "2023-08-07.md",
     "Excalidraw/Drawing 2023-09-05 16.50.59.excalidraw.md",
     "Excalidraw/计算机网络-数据平面 2023-09-05 16.17.18.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 18.30.28.excalidraw.md",
     "计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-03 18.20.46.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
@@ -217,7 +229,6 @@
     "未命名.canvas",
     "Computer Network/img",
     "Computer Network/新建文件夹",
-    "Computer Network/Excalidraw",
-    "Excalidraw"
+    "Computer Network/Excalidraw"
   ]
 }
