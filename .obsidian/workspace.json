@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e8db5291aec27e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "6542adfc24664057",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "25cc59b5ea495265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/操作系统：真象还原.md",
+                "file": "operating systems/操作系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/操作系统：真象还原.md",
+                "file": "operating systems/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/操作系统：真象还原.md",
+                "file": "operating systems/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/操作系统：真象还原.md"
+                "file": "operating systems/操作系统.md"
               }
             }
           },
@@ -194,13 +174,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "7e8db5291aec27e5",
+  "active": "25cc59b5ea495265",
   "lastOpenFiles": [
-    "operating systems/虚拟内存.md",
-    "operating systems/操作系统：真象还原.md",
-    "operating systems/OS basic.md",
-    "操作系统：真象还原.md",
     "operating systems/并发.md",
+    "operating systems/OS basic.md",
+    "operating systems/操作系统.md",
+    "operating systems/虚拟内存.md",
+    "操作系统：真象还原.md",
     "Excalidraw/Drawing 2023-10-21 17.19.11.excalidraw.md",
     "Untitled.canvas",
     "计算机基础知识.md",
