@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/寄存器.md",
+                "file": "operating systems/寄存器（第一版）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/寄存器.md",
+                "file": "operating systems/寄存器（第一版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/寄存器.md",
+                "file": "operating systems/寄存器（第一版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/寄存器.md"
+                "file": "operating systems/寄存器（第一版）.md"
               }
             }
           },
