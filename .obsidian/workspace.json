@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/寄存器（第一版）.md",
+                "file": "operating systems/寄存器和cpu（第一版）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/寄存器（第一版）.md",
+                "file": "operating systems/寄存器和cpu（第一版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/寄存器（第一版）.md",
+                "file": "operating systems/寄存器和cpu（第一版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/寄存器（第一版）.md"
+                "file": "operating systems/寄存器和cpu（第一版）.md"
               }
             }
           },
@@ -176,11 +176,12 @@
   },
   "active": "25cc59b5ea495265",
   "lastOpenFiles": [
+    "operating systems/操作系统.md",
+    "operating systems/并发.md",
+    "operating systems/寄存器和cpu（第一版）.md",
     "operating systems/OS basic.md",
     "operating systems/寄存器.md",
-    "operating systems/操作系统.md",
     "operating systems/虚拟内存.md",
-    "operating systems/并发.md",
     "操作系统：真象还原.md",
     "Excalidraw/Drawing 2023-10-21 17.19.11.excalidraw.md",
     "Untitled.canvas",
@@ -203,7 +204,6 @@
     "Excalidraw/计算机网络-控制平面 2023-09-15 23.14.36.excalidraw.md",
     "Excalidraw/Drawing 2023-09-15 23.31.51.excalidraw.md",
     "Excalidraw/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
-    "Excalidraw/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
