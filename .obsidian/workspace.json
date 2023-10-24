@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构和寄存器（第二版）说明.md",
+                "file": "operating systems/架构和寄存器（第二版）.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构和寄存器（第二版）说明.md",
+                "file": "operating systems/架构和寄存器（第二版）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构和寄存器（第二版）说明.md",
+                "file": "operating systems/架构和寄存器（第二版）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构和寄存器（第二版）说明.md"
+                "file": "operating systems/架构和寄存器（第二版）.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "25cc59b5ea495265",
   "lastOpenFiles": [
-    "operating systems/架构和寄存器（第二版）.md",
     "架构和寄存器（第二版）说明.md",
+    "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统.md",
     "operating systems/并发.md",
     "operating systems/OS basic.md",
