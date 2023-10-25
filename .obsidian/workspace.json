@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/架构和寄存器（第二版）.md",
+                "file": "Computer Network/计算机网络中的安全.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "679c7576ea061b35",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "operating systems/Excalidraw/Pasted image 20231025195543.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/架构和寄存器（第二版）.md",
+                "file": "operating systems/Excalidraw/Pasted image 20231025195543.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/架构和寄存器（第二版）.md",
+                "file": "operating systems/Excalidraw/Pasted image 20231025195543.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/架构和寄存器（第二版）.md"
+                "file": "operating systems/Excalidraw/Pasted image 20231025195543.png"
               }
             }
           },
@@ -174,36 +185,44 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "25cc59b5ea495265",
+  "active": "679c7576ea061b35",
   "lastOpenFiles": [
-    "架构和寄存器（第二版）说明.md",
+    "operating systems/操作系统知识.md",
     "operating systems/架构和寄存器（第二版）.md",
-    "operating systems/操作系统.md",
-    "operating systems/并发.md",
     "operating systems/OS basic.md",
-    "operating systems/寄存器.md",
-    "operating systems/虚拟内存.md",
-    "操作系统：真象还原.md",
-    "Excalidraw/Drawing 2023-10-21 17.19.11.excalidraw.md",
-    "Untitled.canvas",
-    "计算机基础知识.md",
+    "operating systems/并发.md",
+    "架构和寄存器（第二版）说明.md",
     "README.md",
-    "2023-08-07.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/多媒体网络.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-运输层.md",
+    "计算机基础知识.md",
+    "operating systems/Excalidraw/Pasted image 20231025195543.png",
+    "operating systems/Excalidraw/Drawing 2023-10-25 19.48.35.excalidraw.md",
     "Computer Network/计算机网络中的安全.md",
+    "operating systems/Excalidraw/未命名.md",
     "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-应用层.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络.md",
+    "Excalidraw/Drawing 2023-10-25 19.46.49.excalidraw.md",
+    "operating systems/Excalidraw",
+    "Computer Network/Excalidraw/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
+    "Computer Network/Excalidraw/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
+    "Computer Network/Excalidraw/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
+    "Computer Network/Excalidraw/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
+    "Computer Network/Excalidraw/Pasted image 20230709155357.png",
+    "Computer Network/Excalidraw/Pasted image 20230626125744.png",
+    "Computer Network/Excalidraw/Pasted image 20230626125458.png",
+    "Computer Network/Excalidraw/Pasted image 20230624102837.png",
+    "Computer Network/Excalidraw/Pasted image 20230619101837.png",
+    "Computer Network/Excalidraw/Drawing 2023-09-15 23.32.21.excalidraw.md",
+    "Computer Network/Excalidraw/Drawing 2023-09-15 23.31.51.excalidraw.md",
+    "Computer Network/Excalidraw/Drawing 2023-09-15 16.43.17.excalidraw.md",
+    "Computer Network/Excalidraw/Drawing 2023-09-06 12.05.30.excalidraw.md",
+    "Computer Network/Excalidraw",
+    "Untitled.canvas",
     "operating systems",
-    "Excalidraw/计算机网络-控制平面 2023-09-15 23.22.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-15 23.32.21.excalidraw.md",
-    "Excalidraw/计算机网络-控制平面 2023-09-15 23.14.36.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-15 23.31.51.excalidraw.md",
     "Computer Network/img/屏幕截图 2023-07-09 152749.png",
     "code/TCPClient.py",
     "code/TCPServer.py",
@@ -214,11 +233,7 @@
     "Excalidraw/Pasted image 20230709155357.png",
     "Excalidraw/Pasted image 20230626125744.png",
     "Excalidraw/Pasted image 20230619101837.png",
-    "Excalidraw/Pasted image 20230624102837.png",
-    "Excalidraw/Pasted image 20230626125458.png",
     "未命名.canvas",
-    "Computer Network/img",
-    "Computer Network/新建文件夹",
-    "Computer Network/Excalidraw"
+    "Computer Network/img"
   ]
 }
