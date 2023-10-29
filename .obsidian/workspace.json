@@ -10,16 +10,27 @@
           {
             "id": "25cc59b5ea495265",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "f03c8ae05e43d587",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络-应用层.md",
+                "file": "2023-10-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络-应用层.md",
+                "file": "2023-10-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络-应用层.md",
+                "file": "2023-10-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络-应用层.md"
+                "file": "2023-10-29.md"
               }
             }
           },
@@ -174,8 +185,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "25cc59b5ea495265",
+  "active": "f03c8ae05e43d587",
   "lastOpenFiles": [
+    "2023-10-29.md",
+    "operating systems/并发.md",
+    "algorithm/c.md",
+    "operating systems/操作系统知识.md",
+    "algorithm",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/OS basic.md",
+    "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-控制平面.md",
@@ -197,13 +216,6 @@
     "Computer Network/Excalidraw&img/Drawing 2023-08-14 16.30.16.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-14 16.00.01.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-14 15.51.32.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-12 14.29.57.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-12 14.53.38.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-10 17.13.18.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-10 16.38.20.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-10 15.41.28.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-09 17.02.21.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-09 16.41.36.excalidraw.md",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
@@ -221,7 +233,6 @@
     "code/TCPServer.py",
     "code/UDPServer.py",
     "code/UDPClient.py",
-    "code",
     "Excalidraw/Pasted image 20230709155357.png",
     "未命名.canvas"
   ]
