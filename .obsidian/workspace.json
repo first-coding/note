@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-29.md",
+                "file": "operating systems/操作系统知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-29.md",
+                "file": "operating systems/操作系统知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-29.md",
+                "file": "operating systems/操作系统知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-29.md"
+                "file": "operating systems/操作系统知识.md"
               }
             }
           },
@@ -187,12 +187,12 @@
   },
   "active": "f03c8ae05e43d587",
   "lastOpenFiles": [
+    "operating systems/架构和寄存器（第二版）.md",
+    "algorithm/c.md",
     "2023-10-29.md",
     "operating systems/并发.md",
-    "algorithm/c.md",
     "operating systems/操作系统知识.md",
     "algorithm",
-    "operating systems/架构和寄存器（第二版）.md",
     "operating systems/OS basic.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
