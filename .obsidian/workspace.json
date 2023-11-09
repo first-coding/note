@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/操作系统知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/操作系统知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/操作系统知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/操作系统知识.md"
+                "file": "programming language/C++（C++11）.md"
               }
             }
           },
@@ -188,12 +188,17 @@
   "active": "f03c8ae05e43d587",
   "lastOpenFiles": [
     "operating systems/架构和寄存器（第二版）.md",
-    "algorithm/c.md",
-    "2023-10-29.md",
-    "operating systems/并发.md",
-    "operating systems/操作系统知识.md",
-    "algorithm",
+    "programming language/C++（C++11）.md",
+    "programming language",
     "operating systems/OS basic.md",
+    "operating systems/操作系统知识.md",
+    "operating systems/并发.md",
+    "计算机基础知识.md",
+    "Computer Network/计算机网络中的安全.md",
+    "algorithm/c.md",
+    "Computer Network/计算机网络和因特网.md",
+    "2023-10-29.md",
+    "algorithm",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-链路层和局域网.md",
@@ -212,10 +217,6 @@
     "Computer Network/Excalidraw&img/Drawing 2023-08-25 16.35.57.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-21 17.55.58.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-15 16.55.52.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-15 16.49.26.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-14 16.30.16.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-14 16.00.01.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-14 15.51.32.excalidraw.md",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
@@ -232,7 +233,6 @@
     "code/TCPClient.py",
     "code/TCPServer.py",
     "code/UDPServer.py",
-    "code/UDPClient.py",
     "Excalidraw/Pasted image 20230709155357.png",
     "未命名.canvas"
   ]
