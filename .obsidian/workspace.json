@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4a6fab08b268df27",
+        "id": "a0ea2a983294088f",
         "type": "tabs",
         "children": [
           {
-            "id": "f03c8ae05e43d587",
+            "id": "cdaaca126236b3a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "operating systems/操作系统知识.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/操作系统知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/操作系统知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +119,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/操作系统知识.md"
+                "file": "Excalidraw/Drawing 2023-11-11 17.17.20.excalidraw.md"
               }
-            }
-          },
-          {
-            "id": "66a9a8a28f19d502",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "b3f9eae684bbad88",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           },
           {
@@ -154,6 +132,22 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "c0cfcb63af3523fb",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "b83594658fd06cb2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
         ]
       }
@@ -164,49 +158,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "juggl:Juggl global graph": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f03c8ae05e43d587",
+  "active": "09c04dd40332eb3a",
   "lastOpenFiles": [
-    "operating systems/架构和寄存器（第二版）.md",
+    "Excalidraw/Drawing 2023-11-11 17.17.20.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
+    "Excalidraw/Drawing 2023-11-11 17.16.23.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-11 17.11.43.excalidraw.md",
+    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
+    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
+    "README.md",
+    "2023-10-29.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
     "operating systems/操作系统知识.md",
     "operating systems/并发.md",
-    "operating systems/OS basic.md",
-    "programming language/C++（C++11）.md",
-    "programming language",
     "计算机基础知识.md",
+    "架构和寄存器（第二版）说明.md",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/OS basic.md",
     "Computer Network/计算机网络中的安全.md",
-    "algorithm/c.md",
-    "Computer Network/计算机网络和因特网.md",
-    "2023-10-29.md",
-    "algorithm",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-链路层和局域网.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络.md",
     "Computer Network/多媒体网络.md",
+    "programming language/C++（C++11）.md",
+    "programming language",
+    "algorithm/c.md",
+    "Computer Network/计算机网络和因特网.md",
+    "algorithm",
     "Computer Network/Excalidraw&img/Pasted image 20230619101837.png",
     "Computer Network/Excalidraw&img/Pasted image 20230624102837.png",
     "Computer Network/Excalidraw&img/Drawing 2023-09-15 23.32.21.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-09-15 16.43.17.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-09-05 16.50.59.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-09-01 15.22.51.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-30 17.16.06.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-30 15.45.43.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-22 16.57.07.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-25 16.35.57.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-21 17.55.58.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-15 16.55.52.excalidraw.md",
-    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&/Pasted image 20231025195543.png",
@@ -219,10 +217,6 @@
     "Untitled.canvas",
     "operating systems",
     "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
-    "code/TCPClient.py",
-    "code/TCPServer.py",
-    "code/UDPServer.py",
-    "Excalidraw/Pasted image 20230709155357.png",
     "未命名.canvas"
   ]
 }

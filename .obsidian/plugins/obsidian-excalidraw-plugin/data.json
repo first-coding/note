@@ -72,8 +72,45 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.14",
-    "libraryItems": []
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.28",
+    "libraryItems": [
+      {
+        "id": "3zlN-1hYohm29auFsqLYw",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 10,
+            "versionNonce": 1595787059,
+            "isDeleted": false,
+            "id": "leDKKHV81NBNnhLiDb35O",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -426.75,
+            "y": -144.7578125,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 92,
+            "height": 267,
+            "seed": 303527059,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": {
+              "type": 3
+            },
+            "boundElements": [],
+            "updated": 1699694207451,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "created": 1699694211677
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -84,10 +121,9 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
-  "previousRelease": "1.9.14",
+  "previousRelease": "1.9.28",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
-  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js",
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
@@ -408,7 +444,16 @@
   "pdfScale": 4,
   "pdfBorderBox": true,
   "pdfGapSize": 20,
+  "pdfGroupPages": false,
   "pdfLockAfterImport": true,
   "pdfNumColumns": 1,
-  "pdfImportScale": 0.3
+  "pdfNumRows": 1,
+  "pdfDirection": "right",
+  "pdfImportScale": 0.3,
+  "laserSettings": {
+    "DECAY_LENGTH": 50,
+    "DECAY_TIME": 1000,
+    "COLOR": "#ff0000"
+  },
+  "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }
