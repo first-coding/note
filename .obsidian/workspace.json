@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ea2a983294088f",
+        "id": "c611b11e51984913",
         "type": "tabs",
         "children": [
           {
-            "id": "cdaaca126236b3a5",
+            "id": "16826ab2f79c0705",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/基础知识.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-11 17.17.20.excalidraw.md"
+                "file": "Machine Learning/基础知识.md"
               }
             }
           },
@@ -168,8 +176,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09c04dd40332eb3a",
+  "active": "16826ab2f79c0705",
   "lastOpenFiles": [
+    "Computer Network/计算机网络-控制平面.md",
+    "Machine Learning/基础知识.md",
+    "Machine Learning",
+    "架构和寄存器（第二版）说明.md",
+    "operating systems/OS basic.md",
+    "operating systems/操作系统知识.md",
+    "Computer Network/计算机网络-运输层.md",
+    "programming language/C++（C++11）.md",
+    "2023-10-29.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络.md",
     "Excalidraw/Drawing 2023-11-11 17.17.20.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
@@ -178,33 +197,23 @@
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
     "README.md",
-    "2023-10-29.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "operating systems/操作系统知识.md",
     "operating systems/并发.md",
     "计算机基础知识.md",
-    "架构和寄存器（第二版）说明.md",
     "operating systems/架构和寄存器（第二版）.md",
-    "operating systems/OS basic.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络-链路层和局域网.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络.md",
     "Computer Network/多媒体网络.md",
-    "programming language/C++（C++11）.md",
     "programming language",
     "algorithm/c.md",
     "Computer Network/计算机网络和因特网.md",
     "algorithm",
     "Computer Network/Excalidraw&img/Pasted image 20230619101837.png",
     "Computer Network/Excalidraw&img/Pasted image 20230624102837.png",
-    "Computer Network/Excalidraw&img/Drawing 2023-09-15 23.32.21.excalidraw.md",
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&/Pasted image 20231025195543.png",
@@ -215,7 +224,6 @@
     "Computer Network/Excalidraw&img/Pasted image 20230626125458.png",
     "Computer Network/Excalidraw&img",
     "Untitled.canvas",
-    "operating systems",
     "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
     "未命名.canvas"
   ]
