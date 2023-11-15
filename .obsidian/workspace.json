@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/基础知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/基础知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/基础知识.md",
+                "file": "programming language/C++（C++11）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/基础知识.md"
+                "file": "programming language/C++（C++11）.md"
               }
             }
           },
@@ -178,8 +177,8 @@
   },
   "active": "16826ab2f79c0705",
   "lastOpenFiles": [
-    "Computer Network/计算机网络-控制平面.md",
     "Machine Learning/基础知识.md",
+    "Computer Network/计算机网络-控制平面.md",
     "Machine Learning",
     "架构和寄存器（第二版）说明.md",
     "operating systems/OS basic.md",
