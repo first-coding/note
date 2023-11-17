@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/基础知识.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Tensorflow.md"
+                "file": "Machine Learning/基础知识.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "16826ab2f79c0705",
   "lastOpenFiles": [
-    "Machine Learning/基础知识.md",
     "Machine Learning/Tensorflow.md",
+    "Machine Learning/基础知识.md",
     "Excalidraw/Drawing 2023-11-17 17.49.29.excalidraw.md",
     "Excalidraw",
     "屏幕截图 2023-06-25 204254.png",
