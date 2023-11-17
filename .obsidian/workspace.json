@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming language/C++（C++11）.md",
+                "file": "Machine Learning/Tensorflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming language/C++（C++11）.md",
+                "file": "Machine Learning/Tensorflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming language/C++（C++11）.md",
+                "file": "Machine Learning/Tensorflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming language/C++（C++11）.md"
+                "file": "Machine Learning/Tensorflow.md"
               }
             }
           },
@@ -178,13 +178,17 @@
   "active": "16826ab2f79c0705",
   "lastOpenFiles": [
     "Machine Learning/基础知识.md",
+    "Machine Learning/Tensorflow.md",
+    "Excalidraw/Drawing 2023-11-17 17.49.29.excalidraw.md",
+    "Excalidraw",
+    "屏幕截图 2023-06-25 204254.png",
+    "programming language/C++（C++11）.md",
     "Computer Network/计算机网络-控制平面.md",
     "Machine Learning",
     "架构和寄存器（第二版）说明.md",
     "operating systems/OS basic.md",
     "operating systems/操作系统知识.md",
     "Computer Network/计算机网络-运输层.md",
-    "programming language/C++（C++11）.md",
     "2023-10-29.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络.md",
@@ -198,7 +202,6 @@
     "README.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
     "operating systems/并发.md",
     "计算机基础知识.md",
     "operating systems/架构和寄存器（第二版）.md",
@@ -208,8 +211,6 @@
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/多媒体网络.md",
     "programming language",
-    "algorithm/c.md",
-    "Computer Network/计算机网络和因特网.md",
     "algorithm",
     "Computer Network/Excalidraw&img/Pasted image 20230619101837.png",
     "Computer Network/Excalidraw&img/Pasted image 20230624102837.png",
@@ -223,7 +224,6 @@
     "Computer Network/Excalidraw&img/Pasted image 20230626125458.png",
     "Computer Network/Excalidraw&img",
     "Untitled.canvas",
-    "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
     "未命名.canvas"
   ]
 }
