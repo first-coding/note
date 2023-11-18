@@ -164,3 +164,84 @@ def train(epochs): #训练循环函数，用于迭代训练模型多个周期
 
         print('Epoch {} finished'.format(epoch))
 ```
+
+- 自动微分改写
+```
+class Linear(tf.keras.Model): # 定义一个继承tf.keras.Model的类
+
+    def __init__(self):
+
+        super(Linear,self).__init__()
+
+        self.W = tf.Variable(5.,name='weight')
+
+        self.B = tf.Variable(10.,name='bias')
+
+    def call(self,inputs):
+
+        return inputs*self.W+self.B
+       ```
+# A toy dataset of points around 3 * x + 2
+NUM_EXAMPLES = 2000training_inputs = tf.random.normal([NUM_EXAMPLES])noise = tf.random.normal([NUM_EXAMPLES])training_outputs = training_inputs * 3 + 2 + noise# The loss function to be optimizeddef loss(model, inputs, targets):  error = model(inputs) - targets  return tf.reduce_mean(tf.square(error))def grad(model, inputs, targets):  with tf.GradientTape() as tape:    loss_value = loss(model, inputs, targets)  return tape.gradient(loss_value, [model.W, model.B])
+```
+
+- 下一步：
+	- 创建模型
+	- 损失函数对模型参数的导数
+	- 基于导数的变量更新策略
+```
+# 简单的线性模型训练过程，使用梯度下降（SGD）优化器来更新模型的参数权重（W，B），最小化损失
+model = Linear()
+
+optimizer = tf.keras.optimizers.SGD(learning_rate=0.01)
+# 创建一个随机梯度下降（SGD）优化器，指定学习率为0.01.是一个优化算法。
+  
+
+print("Initial loss:{:.3f}".format(loss(model,training_inputs,training_outputs)))
+
+steps = 300 
+# 定义训练的迭代步数
+
+for i in range(steps):
+
+    grads = grad(model,training_inputs,training_outputs)
+
+    optimizer.apply_gradients(zip(grads,[model.W,model.B]))
+
+    if i %20==0:
+
+        print("Loss at step {:03d}:{:.3f}".format(i,loss(model,training_inputs,training_outputs)))
+
+```
+
+- **基于对象保存与加载**：
+	- model.save_weights('weights')  # 将模型权重保存到名为weights的文件中
+	- model.load_weights('weights') # 将保存的权重加载回模型中。
+```
+model.save_weights('weights')
+
+status = model.load_weights('weights')
+```
+
+- tf.train.Checkpoint（*args,** kwargs,name） 
+	- args 允许将要保存或恢复的任意数量的张量，变量，优化器等作为参数传递给Checkpoint
+	- kwargs 允许传递不定参数作为位置参数
+	- name 为检查点对象设置名称。这在一个模型有多个检查点时很有用，以区分它们。
+	- 是 TensorFlow 中用于保存和加载模型参数的关键工具之一。它允许你以一种灵活的方式管理模型的状态，并在需要时保存或加载模型的各个部分。
+```
+checkpoint = tf.train.Checkpoint(my_model=my_model, my_optimizer=my_optimizer, name="my_checkpoint")
+
+checkpoint = tf.train.Checkpoint(model=model, optimizer=optimizer, step=tf.Variable(1))
+
+checkpoint = tf.train.Checkpoint(my_variable1=my_variable1, my_variable2=my_variable2, ...)
+
+```
+
+- assign函数会为tf.Variable类型的变量分配新的值
+
+- **评价模型指标**：tf.keras.metrics 提供了一系列评估模型性能的指标类
+	- tf.keras.metrics.Mean() 计算平均值的指标类。在训练神经网络时，通常需要跟踪和报告一些指标，如损失值或准确率。`Mean` 类可用于计算一系列值的平均值。
+	- tf.keras.metrics.result() 检索结果
+- **动态模型和静态模型**：
+	- **静态模型**：在静态模型中，模型的结构在**创建后不会改变**。这是传统的 Keras 模型，通过定义层和连接它们来构建模型。在这种情况下，你只需在模型的 `compile` 阶段调用 `fit` 来进行训练。
+	- **动态模型**：在动态模型中，模型的结构**可能在每次调用中都有所改变**。这通常涉及自定义模型或者使用条件语句进行结构选择。在这种情况下，使用 `tf.GradientTape` 可以灵活地记录梯度，因为它允许你在每个前向传播中动态地定义模型的计算。
