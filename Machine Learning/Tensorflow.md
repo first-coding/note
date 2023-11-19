@@ -8,7 +8,8 @@ tf.executing_eagerly()
 	- trainspose 是否在相乘前对输入进行转置
 	- is_sparse 是否进行共轭转置
 	- name 操作名称
-```x=[[2.]]
+```
+x=[[2.]]
 m=tf.matmul(x,x) 
 得到答案为[[4.]]
 ```
