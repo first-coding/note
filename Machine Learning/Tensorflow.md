@@ -246,3 +246,96 @@ checkpoint = tf.train.Checkpoint(my_variable1=my_variable1, my_variable2=my_vari
 - **动态模型和静态模型**：
 	- **静态模型**：在静态模型中，模型的结构在**创建后不会改变**。这是传统的 Keras 模型，通过定义层和连接它们来构建模型。在这种情况下，你只需在模型的 `compile` 阶段调用 `fit` 来进行训练。
 	- **动态模型**：在动态模型中，模型的结构**可能在每次调用中都有所改变**。这通常涉及自定义模型或者使用条件语句进行结构选择。在这种情况下，使用 `tf.GradientTape` 可以灵活地记录梯度，因为它允许你在每个前向传播中动态地定义模型的计算。
+```
+# 动态模型，tf.GradientTape也可以用于动态模型
+
+# 下面是回溯线搜索算法，用于找到一个函数的最小值。
+
+def line_search_step(fn, init_x, rate=1.0):
+
+  with tf.GradientTape() as tape:
+
+    # Variables are automatically tracked.
+
+    # But to calculate a gradient from a tensor, you must `watch` it.
+
+    tape.watch(init_x) #告诉梯度带追踪init_x这个张量的操作，以便计算梯度
+
+    value = fn(init_x) #计算函数在当前点 init_x 处的值
+
+  grad = tape.gradient(value, init_x)  # 计算函数在 init_x 处的梯度
+
+  grad_norm = tf.reduce_sum(grad * grad)
+
+  #计算梯度的范数，即梯度向量的平方和。
+
+  #即梯度向量的长度。梯度是一个向量，它包含了函数在每个参数方向上的变化率。梯度的范数就是这个向量的长度，它告诉我们函数在当前点上的斜率的大小。
+
+  init_value = value #保存初始的函数值。
+
+  while value > init_value - rate * grad_norm: #进行线搜索的循环，直到找到一个满足条件的点。
+
+    x = init_x - rate * #grad根据当前梯度和学习率更新当前点init_x
+
+    value = fn(x) #计算更新后点的函数值。
+
+    rate /= 2.0# 逐步减小学习率，进行二分搜索。
+
+  return x, value
+```
+
+- 计算会自动分流到 GPU。如果想控制计算运行的位置，可将其放在 tf.device('/gpu:0') 块（或 CPU 等效块）中,能否检测到GPU和GPU的CUDA版本有关，需要tensorflow支持的CUDA版本才可以使用GPU。
+```
+import time
+
+def measure(x, steps):
+
+  # TensorFlow initializes a GPU the first time it's used, exclude from timing.
+
+  tf.matmul(x, x)
+
+  start = time.time()
+
+  for i in range(steps):
+
+    x = tf.matmul(x, x)
+
+  # tf.matmul can return before completing the matrix multiplication
+
+  # (e.g., can return after enqueing the operation on a CUDA stream).
+  # The x.numpy() call below will ensure that all enqueued operations
+  # have completed (and will also copy the result to host memory,
+  # so we're including a little more than just the matmul operation
+
+  # time).
+
+  _ = x.numpy()
+
+  end = time.time()
+
+  return end - start
+
+shape = (1000, 1000)
+
+steps = 200
+
+print("Time to multiply a {} matrix by itself {} times:".format(shape, steps))
+
+# Run on CPU:
+
+with tf.device("/cpu:0"):
+
+  print("CPU: {} secs".format(measure(tf.random.normal(shape), steps)))
+  
+# Run on GPU, if avaiable:
+
+if tf.config.experimental.list_physical_devices("GPU"):
+
+  with tf.device("/gpu:0"):
+
+    print("GPU: {} secs".format(measure(tf.random.normal(shape), steps)))
+
+else:
+
+  print("GPU: not found")
+```
