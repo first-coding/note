@@ -468,30 +468,86 @@
 			- this指针指向当前对象的地址。当我们访问对象中的成员函数就是隐式的通过this去调用。
 			- **定义一个返回this对象的函数**：
 				- `Sales_data& Sales_data::combine(const Sales_data &rhs){return *this;}`
+			- **可以在类中声明成员函数，可以在类外定义**
+				- `class MyClass { public: // 声明成员函数 void memberFunction(); private: int data; };`
+				- `// 定义成员函数 void MyClass::memberFunction() { // 实现函数逻辑 // 可以使用类的成员变量 data }`
 			- **构造函数**：每个类分别定义了它的对象被初始化的方式，类通过**一个或几个特殊的成员函数来控制其对象的初始化过程**，这些函数就是**构造函数**。
 				- 作用：初始化类对象的数据成员，**无论何时只要类的对象被创建，执行构造函数（不能被声明成const的）**。
 				- 当没有函数去进行初始化类对象的数据成员的时候，类通过一个特殊的构造函数控制默认初始化过程，这个函数是**默认构造函数**。
+			- **访问控制于封装**：
+				- **public**：说明符之后的成员在整个程序内可被访问，**public成员定义类的接口**。
+				- **private**：说明符之后的成员**可以被类的成员函数访问**，但是类外的无法访问。
+			- **class和struct关键字**：
+				- 两个关键字唯一区别就是**默认的访问权限**。
+				- **class**默认的访问权限是private
+				- **struct**默认的访问权限是public
+			- **友元**：允许其他类或者函数访问**非公有成员**，**通过令其他类或者函数成为它的友元**。
+			- **声明静态成员**：
+				- 静态成员在所有对象中共享。静态成员函数不与任何对象绑定一起，它们不包含this指针。
 - **C++标准库**：
 	- **IO库**：
 		- **IO类**：w开头为宽字符
-			- 头文件iostream：
+			- 头文件`iostream`：
 				- **istream，wistream**从流读取数据
 				- **opstream，wostream**向流写入数据
 				- **iostream，wiostream**读写流
-			- 头文件fstream：
+			- **IO对象无拷贝或赋值**:
+				- `ofstream out1,out2;`
+				- **以下都是错误的**：
+					- `out1=out2;`
+					- `ofstream print(ofstream);`
+					- `out2=print(out2);`
+			- **条件状态**：IO操纵可能发生错误，有些错误可恢复，有些错误存在与系统（超出应用程序范围）。下列的表是定义的函数与标志。std::ios::
+				- `iostate`:提供了表达条件状态的完整功能
+				- `badbit`：指出流已崩溃
+				- `failbit`：IO操作失败
+				- `eofbit`：流到达文件结束
+				- `goodbit`：流未处于错误状态，这个值保证为0
+				- `s.eof()`：若流s的eofbit置位，则返回true
+				- `s.fail()`：若流s的failbit或badbit置位，则返回true
+				- `s.bad()`：若流s的badbit置位，则返回true
+				- `s.good()`：若流s处于有效状态，则返回true
+				- `s.clear()`：将流s中所有条件状态位复位，将流的状态设置为有效，返回void。
+				- `s.clear(flags)`：根据给定的flags标志位，将流s对应条件状态位复位，flags的类型为strm::iostate，返回void
+				- `s.setstate(flags)`：根据给定的flags标志位，将流s对应条件状态位置位，flags的类型为strm::iostate，返回void
+				- `s.rdstate()` 返回流s的当前条件状态，返回值类型为strm::iostate
+			- **管理输出缓冲**：
+				- 每个输出流都管理一个缓冲区（用来保存程序读写的程序）。
+				- **缓冲刷新（数据真正写到输出设备或文件）**：
+					- 程序正常结束，作为main函数的return操作一部分，缓冲刷新被执行。
+					- 缓冲区满时，需要刷新缓冲，之后新的数据才能继续写入缓冲区。
+					- 我们可以使用操作符**endl**，来显式刷新缓冲区。
+					- 在每个输出操作之后，用**unitbuf**设置流的内部状态，来清空缓冲区。默认情况下，对cerr时设置unitbuf的。**所以写到cerr的内容都是立即刷新的。**
+					- 一个输出流可能被关联到另一个流。这种情况，当读写被关联的流时，关联到的流的缓冲区会被刷新。默认情况，cin和cerr都关联到cout。**所以读cin或写cerr都会导致cout的缓冲区被刷新。**
+				- **刷新输出缓冲区**：
+					- **endl**：输出对应内容和一个换行，然后刷新缓冲区。
+					- **flush**：输出对应内容，然后刷新缓冲区，不附加任何额外字符。
+					- **ends**：输出对应内容和一个空字符，刷新缓冲区。
+					- **unitbuf**：每次输出操作后都刷新缓冲区。
+						- `cout<<unitbuf` 所有输出操作后都会立即刷新缓冲区。可以说是无缓冲了
+						- `cout<<nounitbuf` 回到正常的缓冲方式
+		- **文件输入输出**：
+			- `#include<fstream>` 
+			- 头文件`fstream`：
 				- **ifstream，wifstream**从文件读取数据
 				- **ofstream，wofstream**向文件写入数据
 				- **fstream，wfsteam**读写文件
-			- 头文件sstream：**这里的string与容器string不一样。**
+		- **string流**：
+			- `#include<sstream>`
+			- 头文件`sstream`：**这里的string与容器string不一样。**
 				- **istringstream，wistringstream**从string读取数据
 				- **ostringstream，wostringstream**向string写入数据
 				- **stringstream，wstringstream**读写string
-			- **IO对象无拷贝或赋值**
-			- 条件状态：IO操纵可能发生错误，有些错误可恢复，有些错误存在与系统（超出应用程序范围）。下列的表是定义的函数与标志。std::ios::
-				- iostate:提供了表达条件状态的完整功能
-				- badbit：指出流已崩溃
-				- failbit：IO操作失败
-				- eofbit：流到达文件结束
-				- goodbit：流未处于错误状态，这个值保证为0
+	- **顺序容器**：
+	- **泛型算法**：
+	- **关联容器**：
+	- **动态内存**：
 - **类设计者的工具**：
+	- **拷贝控制**：
+	- **重载运算与类型转换**：
+	- **面向对象程序设计**：
+	- **模板与泛型编程**：
 - **高级主题**：
+	- **标准库特殊设施**：
+	- **用于大型程序的工具**：
+	- **特殊工具与技术**：
