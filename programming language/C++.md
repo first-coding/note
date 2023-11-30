@@ -532,6 +532,17 @@
 				- **ifstream，wifstream**从文件读取数据
 				- **ofstream，wofstream**向文件写入数据
 				- **fstream，wfsteam**读写文件
+				- `fstream fstrm;` 创建一个未绑定的文件流。
+				- `fstream strm(s);` 创建一个fstream，并打开名为s的文件。
+				- `fstream fstrm(s,mode)` 与上一个一样，但按指定的mode打开文件。
+					- `mode` ：
+						- ios::
+							- `in` ：以读方式打开
+							- `out` ：以写方式打开
+							- 
+				- `fstrm.open(s)` ：打开名为s的文件，并绑定fstrm。
+				- `fstrm.close()` ：关闭于fstrm绑定的文件。返回void
+				- `fstrm.is_open()` ：返回一个bool值，判断于fstrm关联的文件是否成功打开并未关闭。
 		- **string流**：
 			- `#include<sstream>`
 			- 头文件`sstream`：**这里的string与容器string不一样。**
