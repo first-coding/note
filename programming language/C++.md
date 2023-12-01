@@ -572,8 +572,6 @@
 				- **unordered_set**：用哈希函数组织的set
 				- **unordered_multimap**：哈希组织的map，关键字可以重复出现
 				- **unordered_multiset**：哈希组织的set，关键字可以重复出现
-		- **容器操作（所有容器）**：
-			- 
 	- **泛型算法**：
 	- **动态内存**：
 - **类设计者的工具**：
