@@ -122,7 +122,7 @@
 		- **命令空间的using声明**：
 			- `using namespace::name` 这样可以在namespace中使用name这个对象。
 			- ps：当使用`using namespace std` 就不需要再每个对象都导入了。std命令空间中所有函数和对象都可以不需要`std::name` 这样使用了。可以直接`name` 这个样子了。
-		- **标准库类型string**：
+		- **标准库类型string**：[[#^7cfc1f]]
 			- `#include<string>  using std::string`
 			- **定义string对象**
 				- `string s1;`
@@ -175,7 +175,7 @@
 						- expression：是一个对象，用于表示一个序列。
 				- **下标运算符 ( `[]` )**:
 					- `[]` 接收的输入参数为string::size_type类型的值。
-		- **标准库类型vector**：
+		- **标准库类型vector**：[[#^7cfc1f]]
 			- **vector**表示对象的集合，其中所有对象的类型都相同，也叫容器
 				- `#include<vector> using std::vector` 
 				- `vector<int> ivec;` ivec保存int类型的对象
@@ -538,8 +538,11 @@
 					- `mode` ：
 						- ios::
 							- `in` ：以读方式打开
-							- `out` ：以写方式打开
-							- 
+							- `out` ：以写方式打开，会丢弃已有数据
+							- `app` ：每次写操作前均定位到文件末尾
+							- `ate` ：打开文件后立即定位到文件末尾
+							- `trunc` ：截断文件
+							- `binary` ：以二进制方式进行IO
 				- `fstrm.open(s)` ：打开名为s的文件，并绑定fstrm。
 				- `fstrm.close()` ：关闭于fstrm绑定的文件。返回void
 				- `fstrm.is_open()` ：返回一个bool值，判断于fstrm关联的文件是否成功打开并未关闭。
@@ -549,9 +552,29 @@
 				- **istringstream，wistringstream**从string读取数据
 				- **ostringstream，wostringstream**向string写入数据
 				- **stringstream，wstringstream**读写string
-	- **顺序容器**：
+	- **容器**：一些特定类型对象的集合。每个容器都定义在一个头文件中。
+		- **顺序容器**：为程序员提供了控制元素存储和访问顺序的能力。
+			- **PS：所有顺序容器都提供了快速顺序访问元素的能力。现代c++推荐使用标准库容器。**
+			- **vector**：可变大小数组，可快速随机访问。**但尾部之外插入或删除元素可能很慢。** 通常来说，vector是最好的选择。
+			- **deque**：双端队列，可快速随机访问，**在头尾位置插入/删除速度很快。**
+			- **list**：双向链表，可双向顺序访问，**在任何位置进行插入/删除很快。**
+			- **forward_list**：单向链表，可单向顺序访问，**在任何位置插入/删除很快。**
+			- **array**：固定大小数组，可快速随机访问，**不能添加/删除元素。**
+			- **string**：与vector类似，但专门用于保存字符，**随机访问快，在尾部插入/删除快。**
+		- **关联容器**：以键-值对的形式存储元素，并提供一种通过键快速查找、插入或删除元素的机制。
+			- **关键字有序**：
+				- **map**：关联数组：保存关键字-值对
+				- **set**：关键字即值，只保存关键字的容器
+				- **multimap**：关键字可重复出现的map
+				- **multiset**：关键字可重复出现的set
+			- **关键字无序**：
+				- **unordered_map**：用哈希函数组织的map
+				- **unordered_set**：用哈希函数组织的set
+				- **unordered_multimap**：哈希组织的map，关键字可以重复出现
+				- **unordered_multiset**：哈希组织的set，关键字可以重复出现
+		- **容器操作（所有容器）**：
+			- 
 	- **泛型算法**：
-	- **关联容器**：
 	- **动态内存**：
 - **类设计者的工具**：
 	- **拷贝控制**：

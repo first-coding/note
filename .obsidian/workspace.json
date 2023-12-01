@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16826ab2f79c0705",
+            "id": "a29872b53be7fa6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,8 +175,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "16826ab2f79c0705",
+  "active": "a29872b53be7fa6c",
   "lastOpenFiles": [
+    "2023-10-29.md",
+    "README.md",
+    "programming language/C++.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络-应用层.md",
@@ -184,7 +187,6 @@
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/多媒体网络.md",
     "Computer Network/Excalidraw&img/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
-    "programming language/C++.md",
     "Machine Learning/Tensorflow.md",
     "operating systems/操作系统知识.md",
     "operating systems/并发.md",
@@ -202,8 +204,6 @@
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-04 15.09.35.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-04 15.04.06.excalidraw.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-02 16.03.20.excalidraw.md",
     "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
     "Computer Network/Excalidraw&img/屏幕截图 2023-09-06 094645.png",
     "屏幕截图 2023-06-25 204254.png",
