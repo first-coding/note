@@ -572,6 +572,28 @@
 				- **unordered_set**：用哈希函数组织的set
 				- **unordered_multimap**：哈希组织的map，关键字可以重复出现
 				- **unordered_multiset**：哈希组织的set，关键字可以重复出现
+		- **容器操作**：
+			- `vector<int>::类型别名 容器名` 
+				- `vector<int>::iterator it;`
+			- `swap` ：
+				- `a.swap(b)/swap(a,b)` 交换a，b元素。
+			- **大小** ：
+				- `c.size()` c中元素的数目(不适用forward_list)
+				- `c.max_size()` c可保存最大元素数目
+				- `c.empty()` 判断c是否为空
+			- **添加/删除元素**（**array不适用**）：
+				- `c.insert(args)` 将args中的元素拷贝进c
+				- `c.emplace(inits)` 使用inits构造c中的一个元素
+				- `c.erase(args)` 删除args指定的元素
+				- `c.clear()` 删除c中所有元素，返回void
+			- **迭代器**：
+				- `c.begin()/c.end()` 返回指向c的首元素和尾元素之后位置的迭代器
+				- `c.cbegin()/c.cend()` 返回const_iterator
+			- **反向容器的额外成员**（**不支持forward_list**）：
+				- `reverse_iterator` 按逆序寻址元素的迭代器
+				- `const_reverse_iterator` 不能修改元素的逆序迭代器
+				- `c.rbegin()/c.rend()` 返回指向c的尾元素和首元素之前位置的迭代器
+				- `c.crbegin()/c.crend()` 返回const_reverse_iterator
 	- **泛型算法**：
 	- **动态内存**：
 - **类设计者的工具**：
