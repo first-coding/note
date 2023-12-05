@@ -572,6 +572,11 @@
 				- **unordered_set**：用哈希函数组织的set
 				- **unordered_multimap**：哈希组织的map，关键字可以重复出现
 				- **unordered_multiset**：哈希组织的set，关键字可以重复出现
+			- **因为map保存 字-值对，所以需要定义字和值的类型** 
+				- `map<string,size_t> word_count;`
+				- `map<string,size_t> authors = {{"fisrt","jame"},{"second","famiy"}}`
+			- **set只保存关键字，所以只需要定义关键字类型即可**
+				- `set<string> excluede = {"the","..."}`
 		- **容器操作**：
 			- `vector<int>::类型别名 容器名` 
 				- `vector<int>::iterator it;`
@@ -586,7 +591,7 @@
 				- `c.emplace(inits)` 使用inits构造c中的一个元素
 				- `c.erase(args)` 删除args指定的元素
 				- `c.clear()` 删除c中所有元素，返回void
-			- **迭代器**：
+			- **迭代器**：区间是左闭右开的。
 				- `c.begin()/c.end()` 返回指向c的首元素和尾元素之后位置的迭代器
 				- `c.cbegin()/c.cend()` 返回const_iterator
 			- **反向容器的额外成员**（**不支持forward_list**）：
@@ -594,8 +599,64 @@
 				- `const_reverse_iterator` 不能修改元素的逆序迭代器
 				- `c.rbegin()/c.rend()` 返回指向c的尾元素和首元素之前位置的迭代器
 				- `c.crbegin()/c.crend()` 返回const_reverse_iterator
-	- **泛型算法**：
+	- **泛型算法**：允许在不关心数据类型的情况下编写算法。
+		- `#include<numeric>` 
+		- 总的来说，就是可以在不同容器中却使用同一种方法/函数。
+			- `vector.sort()` 和 `array.sort()` sort就是一种泛型算法。
+		- **lambda**：
+			- `[capture list](parameter list)->return type{funciton body}` 
+				- `capture list` 是一个捕获列表，是一个lambda函数定义的局部变量的列表。
+				- `parameter list`  参数列表
+				- `return type` 返回类型
+				- `function body` 函数体
+				- `auto f=[]{return 42;};`
 	- **动态内存**：
+		- **new和delete**：
+			- **基本操作**：
+				- `int *pi = new int;` pi指向一个动态分配的，未初始化的对象。
+				- `int *pi = new int(1024);` pi指向的对象的值为1024
+				- `string *ps = new string(10,'9')` * ps 的值为10个9
+				- `delete pi;` 释放pi指向的内存
+			- **动态数组**：
+				- `int *pe = new int[10]` 10个未初始化的int
+				- `int *pes = new int[10]()*` 10个初始化为0的int
+				- `string *psa = new int[10] / string *psa2 = new int[10]()*` 都是一样的，10个空的string。
+				- `delete []pe` 因为pe是一个数组，所以需要加上`[]` 
+			- **PS**：delete之后，pi是一个**空悬指针**，**指向一块曾经保存数据对象但现在无效的内存的指针。**
+		- **allocator,construct,destroy,dellocate：**不涉及构造和析构**，需要管理员手动管理。即内存分配和构造分离开。相对于new来说更为底层。
+			- `allocator<int> test;`
+			- `int *arr = test.allocate(5)` 构造函数，分配多少块内存。
+			- `test.construct(locate,value)` 在locate上分配一个value值。
+			- `test.destroy(locate)` 析构函数，先要销毁locate位置上的对象。
+			- `test.dellocate(arr,5)` 分配内存的指针arr，以及释放内存的数量。
+		- **智能指针**：为了安全，便于开发者无需手动管理
+			- **shared_ptr**：允许多个指针指向同一个对象。 
+				- `#include<memory>`
+				- `shared_ptr<string> p1` 需要给出指针可以指向的类型。
+				-  **weak_ptr**：弱引用，指向shared_ptr所管理的类。
+					- `auto p = make_shared<int>(42);` 
+					- `weak_ptr<int> wp(p);` wp弱共享p，**对wp的修改不会影响p**
+				- `make_shared` 标准库函数，最安全的分配和使用动态内存的方法，在动态内存分配一个对象并初始化。返回此对象的shared_ptr 。
+					- `shared_ptr<int> p3=make_shared<int>(42);`
+					- `auto p=make_shared<int>(42); auto q(p);` q和p指向同一个对象。
+				- `shared_ptr` **自动销毁管理的对象和释放相关内存，通过析构函数。**
+			- **unique_ptr**：独占一个对象，不允许多个指针指向同一个对象。
+				- `unique_ptr<double> p1;`
+				- `unique_ptr p1(new string("test"))` 
+				- PS：unique_ptr不支持拷贝和赋值，以下是错误用法
+					- `unique_ptr<string> p2(p1)` 不支持拷贝
+					- `unique_ptr<string> p3; p3=p2` 不支持赋值
+			- **同时具备操作**：
+				- `shared_ptr<T> p1` / `unique_ptr<T> p2` 空指针，指向类型为T的对象
+				- `p1 / p2` 作用判断，看是否有指向一个对象。
+				- `*p` 解引用，获得指向的对象。
+				- `p->men / (*p).men` 访问对象的men。
+				- `p1.get()`  返回p1中保存的指针。若智能指针释放了对象，返回的指针指向的对象也消失了。
+				- `swap(p,q) / p.swap(q)`  交换p和q中的指针。
+		- **shared_ptr和new结合使用**：
+			- 需要使用直接初始化的方式,**因为智能指针的构造函数是explicit的，这样的只能进行直接初始化**
+				- `shared_ptr<int> p2(new int(1024));` 
+				- 但是最好还是`shared_ptr` 和 `make_shared`一起用。
 - **类设计者的工具**：
 	- **拷贝控制**：
 	- **重载运算与类型转换**：
