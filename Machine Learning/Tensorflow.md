@@ -1,62 +1,62 @@
-```
+ ```
 tf.executing_eagerly() 
 #查看是否启动了Eager Execution,允许使用python的流程编写和运行tensorflow代码
 #就是可以通过if，while这些python控制流语句。
 ```
-- tf.matmul(a,b,transpose_a,trainspose_b,adjoint_a,adjoint_b,a_is_sparse,b_is_sparse,name)    执行矩阵乘法的函数
-	- ab为相乘的矩阵或者是tf的张量
-	- trainspose 是否在相乘前对输入进行转置
-	- is_sparse 是否进行共轭转置
-	- name 操作名称
+- **tf.matmul(a,b,transpose_a,trainspose_b,adjoint_a,adjoint_b,a_is_sparse,b_is_sparse,name)**    执行矩阵乘法的函数
+	- **ab为相乘的矩阵或者是tf的张量**
+	- **trainspose 是否在相乘前对输入进行转置**
+	- **is_sparse 是否进行共轭转置**
+	- **name 操作名称**
 ```
 x=[[2.]]
 m=tf.matmul(x,x) 
 得到答案为[[4.]]
 ```
-- tf.constant（value,dtype,shape,name） 创建一个不可变的张量（tf中表示多维数据的基本单位）
-	- value 张量的值，可以是数字，列表，数组等
-	- dtype 张量的数据类型，默认为None，会根据value的的类型进行自动推断
-	- shape 张量的形状，指定张量每个维度的大小，默认为None，表示会根据value的形状自动推断
-	- name 张量的名称，默认是Const
+- **tf.constant（value,dtype,shape,name）** 创建一个不可变的张量（tf中表示多维数据的基本单位）
+	- **value 张量的值，可以是数字，列表，数组等**
+	- **dtype 张量的数据类型，默认为None，会根据value的的类型进行自动推断**
+	- **shape 张量的形状，指定张量每个维度的大小，默认为None，表示会根据value的形状自动推断**
+	- **name 张量的名称，默认是Const**
 ```
 a = tf.constant([[1,2],
 				[3,4]]) 
 ```
-- tf.add(x,y,name) 对两个张量或者数值进行逐个元素的加法操作
-	- x，y 为需要相加的张量或者数值
-	- name 操作的名称
+- **tf.add(x,y,name) 对两个张量或者数值进行逐个元素的加法操作**
+	- **x，y 为需要相加的张量或者数值**
+	- **name 操作的名称**
 ```
 b=tf.add(a,1) 将a张量每个地方的元素都加1
 ```
-- tf.multiply(x,y,name) 对两个执行乘法操作，与tf.add差不多
+- **tf.multiply(x,y,name) 对两个执行乘法操作，与tf.add差不多**
 ```
 c=tf.multiply(a,b) 对a和b进行乘法操作
 ```
-- a.numpy 用于获取张量a的numpy数组表示方法
+- **a.numpy 用于获取张量a的numpy数组表示方法**
 ```
 print(a.numpy())
 结果为[[1 2]
 	   [3 4]]
 ```
-- tf.convert_to_tensor(value,dtype,dtype_hint,name)
-	- value 转换为张量的对象
-	- dtype 张量的数据类型，默认值None，根据对象的类型自动推断
-	- dtype_hint 数据类型的提示，用于指定希望转换为的数据类型
-	- name 张量的名称
+- **tf.convert_to_tensor(value,dtype,dtype_hint,name)**
+	- **value 转换为张量的对象**
+	- **dtype 张量的数据类型，默认值None，根据对象的类型自动推断**
+	- **dtype_hint 数据类型的提示，用于指定希望转换为的数据类型**
+	- **name 张量的名称**
 ```
 max_num = tf.convert_to_tensor(15) 将15转换为张量
 ```
-- tf.Variable(initial_value,trainable=True,dtype=None,name=None) 是 TensorFlow 中用于创建可训练变量（可学习参数）的类
-	- initial_value 变量的初始化，可以是标量，列表，数组等
-	- trainable 表示变量是否可以被优化器训练
-	- dtype 变量的数据类型，如果未指定，自动推断
-	- name 变量名称
+- **tf.Variable(initial_value,trainable=True,dtype=None,name=None) 是 TensorFlow 中用于创建可训练变量（可学习参数）的类**
+	- **initial_value 变量的初始化，可以是标量，列表，数组等**
+	- **trainable 表示变量是否可以被优化器训练**
+	- **dtype 变量的数据类型，如果未指定，自动推断**
+	- **name 变量名称**
 ```
 w = tf.Variable([[1.0]])
 tf.print(w)  tf打印值出来 [[1]]
 ```
-- tf.GradientTape() tensorflow中用于计算梯度的上下文管理器，主要用于自动微分（即计算导数），在训练神经网络非常有用，可以监视张量，计算相对于某些变量的梯度。
-	- gradient(target,source)  计算target相对于source的梯度
+- **tf.GradientTape() tensorflow中用于计算梯度的上下文管理器，主要用于自动微分（即计算导数），在训练神经网络非常有用，可以监视张量，计算相对于某些变量的梯度。**
+	- **gradient(target,source)  计算target相对于source的梯度**
 ```
 with tf.GradientTape() as tape:
     # 在这个上下文中执行前向传播的操作
