@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/Tensorflow/tensor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/Tensorflow/tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Tensorflow.md",
+                "file": "Machine Learning/Tensorflow/tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Tensorflow.md"
+                "file": "Machine Learning/Tensorflow/tensor.md"
               }
             }
           },
@@ -186,12 +186,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6864ae227fbbcc80",
+  "active": "09c04dd40332eb3a",
   "lastOpenFiles": [
+    "Machine Learning/Tensorflow/Basic.md",
+    "Machine Learning/Tensorflow/tensor.md",
+    "Machine Learning/基础知识.md",
+    "Machine Learning/Tensorflow",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
-    "Machine Learning/基础知识.md",
-    "Machine Learning/Tensorflow.md",
     "operating systems/OS basic.md",
     "operating systems/并发.md",
     "programming language/C++.md",
@@ -232,7 +234,6 @@
     "operating systems/Excalidraw&",
     "operating systems/Excalidraw",
     "Computer Network/Excalidraw&img/Pasted image 20230709155357.png",
-    "Computer Network/Excalidraw&img",
     "Untitled.canvas",
     "未命名.canvas"
   ]
