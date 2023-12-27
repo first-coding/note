@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tensorflow/tensor.md",
+                "file": "Machine Learning/Tensorflow/张量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Tensorflow/tensor.md",
+                "file": "Machine Learning/Tensorflow/张量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Tensorflow/tensor.md",
+                "file": "Machine Learning/Tensorflow/张量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Tensorflow/tensor.md"
+                "file": "Machine Learning/Tensorflow/张量.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09c04dd40332eb3a",
+  "active": "6864ae227fbbcc80",
   "lastOpenFiles": [
+    "Machine Learning/Tensorflow/张量.md",
     "Machine Learning/Tensorflow/Basic.md",
-    "Machine Learning/Tensorflow/tensor.md",
     "Machine Learning/基础知识.md",
     "Machine Learning/Tensorflow",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
