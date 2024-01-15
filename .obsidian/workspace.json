@@ -23,15 +23,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Tensorflow/张量.md",
+                "file": "AI/DeepLearning/Tensorflow/张量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5fa2e41b30b9f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/MachineLearning/基础知识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Tensorflow/张量.md",
+                "file": "AI/MachineLearning/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Tensorflow/张量.md",
+                "file": "AI/MachineLearning/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Tensorflow/张量.md"
+                "file": "AI/MachineLearning/基础知识.md"
               }
             }
           },
@@ -147,7 +160,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -167,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,21 +202,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6864ae227fbbcc80",
+  "active": "a5fa2e41b30b9f11",
   "lastOpenFiles": [
-    "Machine Learning/Tensorflow/张量.md",
-    "Machine Learning/Tensorflow/Basic.md",
-    "Machine Learning/基础知识.md",
-    "Machine Learning/Tensorflow",
-    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
-    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
-    "operating systems/OS basic.md",
-    "operating systems/并发.md",
-    "programming language/C++.md",
+    "AI/DeepLearning/Tensorflow/张量.md",
+    "AI/MachineLearning/基础知识.md",
+    "AI/DeepLearning/基础知识.md",
+    "AI/MachineLearning",
+    "AI/DeepLearning",
+    "operating systems/架构和寄存器（第二版）.md",
     "计算机知识.md",
+    "README.md",
     "架构和寄存器（第二版）说明.md",
     "2023-10-29.md",
-    "README.md",
+    "programming language/C++.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "operating systems/并发.md",
+    "operating systems/操作系统知识.md",
+    "operating systems/OS basic.md",
+    "AI/DeepLearning/Tensorflow",
+    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
+    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络-应用层.md",
@@ -208,19 +232,13 @@
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/多媒体网络.md",
     "Computer Network/Excalidraw&img/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
-    "operating systems/操作系统知识.md",
     "Excalidraw/Drawing 2023-11-20 09.20.39.excalidraw.md",
     "Excalidraw",
     "Computer Network/Excalidraw&img/Drawing 2023-09-01 15.08.56.excalidraw.md",
-    "Computer Network/计算机网络-运输层.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-06-28 15.55.50.excalidraw.md",
-    "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
-    "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-03 18.05.32.excalidraw.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
     "Computer Network/Excalidraw&img/屏幕截图 2023-09-06 094645.png",
     "屏幕截图 2023-06-25 204254.png",
-    "Machine Learning",
+    "AI",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -231,8 +249,6 @@
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&/Pasted image 20231025195543.png",
-    "operating systems/Excalidraw&",
-    "operating systems/Excalidraw",
     "Computer Network/Excalidraw&img/Pasted image 20230709155357.png",
     "Untitled.canvas",
     "未命名.canvas"
