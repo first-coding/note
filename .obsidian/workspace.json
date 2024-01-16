@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md",
+                "file": "AI/MachineLearning/3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md",
+                "file": "AI/MachineLearning/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md",
+                "file": "AI/MachineLearning/3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md"
+                "file": "AI/MachineLearning/3.md"
               }
             }
           },
@@ -204,17 +205,17 @@
   },
   "active": "a5fa2e41b30b9f11",
   "lastOpenFiles": [
-    "AI/DeepLearning/Tensorflow/张量.md",
-    "AI/MachineLearning/基础知识.md",
     "AI/DeepLearning/基础知识.md",
+    "programming language/C++.md",
+    "2023-10-29.md",
+    "AI/MachineLearning/3.md",
+    "AI/DeepLearning/Tensorflow/张量.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
     "operating systems/架构和寄存器（第二版）.md",
     "计算机知识.md",
     "README.md",
     "架构和寄存器（第二版）说明.md",
-    "2023-10-29.md",
-    "programming language/C++.md",
     "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络.md",
