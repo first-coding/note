@@ -4,60 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7a6d50735a32aa",
+        "id": "c08c906b3eb05d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5df8a547e470b28",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "6864ae227fbbcc80",
+            "id": "3aeace10203f0b50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/张量.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5fa2e41b30b9f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/MachineLearning/基础知识.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c17ec082734b3d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/MachineLearning/基础知识.md",
-                "mode": "source",
+                "file": "AI/基础知识.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#对称密钥密码体系：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md",
+                "file": "AI/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md",
+                "file": "AI/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +117,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -163,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/MachineLearning/基础知识.md"
+                "file": "AI/基础知识.md"
               }
             }
           },
@@ -196,11 +160,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 425.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -215,39 +179,39 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0c17ec082734b3d1",
+  "active": "3aeace10203f0b50",
   "lastOpenFiles": [
-    "AI/MachineLearning/基础知识.md",
-    "AI/DeepLearning/基础知识.md",
-    "programming language/C++.md",
-    "2023-10-29.md",
     "AI/DeepLearning/Tensorflow/张量.md",
+    "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
+    "计算机知识.md",
+    "Computer Network/计算机网络.md",
+    "Computer Network/多媒体网络.md",
+    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-应用层.md",
+    "Computer Network/计算机网络-数据平面.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "2023-10-29.md",
+    "AI/基础知识.md",
+    "AI/DeepLearning/基础知识.md",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/OS basic.md",
+    "operating systems/操作系统知识.md",
+    "operating systems/并发.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
+    "programming language/C++.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
-    "operating systems/架构和寄存器（第二版）.md",
-    "计算机知识.md",
     "README.md",
     "架构和寄存器（第二版）说明.md",
-    "Computer Network/计算机网络-运输层.md",
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
-    "operating systems/并发.md",
-    "operating systems/操作系统知识.md",
-    "operating systems/OS basic.md",
     "AI/DeepLearning/Tensorflow",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
-    "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络中的安全.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
-    "Computer Network/多媒体网络.md",
     "Computer Network/Excalidraw&img/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-20 09.20.39.excalidraw.md",
     "Excalidraw",
-    "Computer Network/Excalidraw&img/Drawing 2023-09-01 15.08.56.excalidraw.md",
     "Computer Network/Excalidraw&img/屏幕截图 2023-07-09 152749.png",
     "Computer Network/Excalidraw&img/屏幕截图 2023-09-06 094645.png",
     "屏幕截图 2023-06-25 204254.png",
