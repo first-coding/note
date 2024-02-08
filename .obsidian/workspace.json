@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/基础知识.md",
+                "file": "AI/线性模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/基础知识.md",
+                "file": "AI/线性模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/基础知识.md",
+                "file": "AI/线性模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/基础知识.md"
+                "file": "AI/线性模型.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "3aeace10203f0b50",
   "lastOpenFiles": [
+    "AI/基础知识.md",
+    "AI/线性模型.md",
     "programming language/C++.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络.md",
@@ -189,7 +191,6 @@
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/Excalidraw&img/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
     "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
-    "AI/基础知识.md",
     "AI/DeepLearning/Tensorflow/Basic.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/多媒体网络.md",
@@ -207,7 +208,6 @@
     "AI/MachineLearning",
     "AI/DeepLearning",
     "README.md",
-    "架构和寄存器（第二版）说明.md",
     "AI/DeepLearning/Tensorflow",
     "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "Excalidraw",
