@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Basic.md",
-                "mode": "source",
+                "file": "Computer Network/计算机网络-应用层.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Basic.md",
+                "file": "Computer Network/计算机网络-应用层.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Basic.md",
+                "file": "Computer Network/计算机网络-应用层.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Basic.md"
+                "file": "Computer Network/计算机网络-应用层.md"
               }
             }
           },
@@ -180,12 +180,17 @@
   },
   "active": "3aeace10203f0b50",
   "lastOpenFiles": [
+    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络-运输层.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/多媒体网络.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "AI/基础知识.md",
     "AI/线性模型.md",
     "计算机知识.md",
     "operating systems/操作系统知识.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
     "Computer Network/计算机网络-数据平面.md",
     "programming language/C++.md",
     "operating systems/OS basic.md",
@@ -195,14 +200,9 @@
     "operating systems/并发.md",
     "operating systems/架构和寄存器（第二版）.md",
     "Computer Network/计算机网络中的安全.md",
-    "Computer Network/计算机网络和因特网.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-链路层和局域网.md",
-    "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络.md",
-    "Computer Network/多媒体网络.md",
     "Computer Network/Excalidraw&img/计算机网络-控制平面 2023-09-15 17.13.28.excalidraw.md",
     "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-02 14.31.27.excalidraw.md",
     "Computer Network/Excalidraw&img/计算机网络-数据平面 2023-09-05 16.01.42.excalidraw.md",
