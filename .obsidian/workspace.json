@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/模型算法.md",
+                "file": "AI/算法模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/模型算法.md",
+                "file": "AI/算法模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/模型算法.md",
+                "file": "AI/算法模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/模型算法.md"
+                "file": "AI/算法模型.md"
               }
             }
           },
@@ -180,9 +180,14 @@
   },
   "active": "3aeace10203f0b50",
   "lastOpenFiles": [
+    "Pasted image 20240227170036.png",
+    "Pasted image 20240227170035.png",
     "AI/基础知识.md",
+    "AI/算法模型.md",
     "AI/模型算法.md",
     "AI/Pasted image 20240226170438.png",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "AI/DeepLearning/未命名.md",
     "AI/未命名.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
@@ -195,7 +200,6 @@
     "Computer Network/Excalidraw&img/Drawing 2023-08-09 16.41.36.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-09 17.02.21.excalidraw.md",
     "Computer Network/多媒体网络.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "计算机知识.md",
     "operating systems/操作系统知识.md",
@@ -204,8 +208,6 @@
     "架构和寄存器（第二版）说明.md",
     "README.md",
     "2023-10-29.md",
-    "operating systems/并发.md",
-    "operating systems/架构和寄存器（第二版）.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
     "AI/DeepLearning/Tensorflow",
@@ -224,7 +226,6 @@
     "Computer Network/Excalidraw&img/Pasted image 20230624102837.png",
     "operating systems/Excalidraw&img",
     "operating systems/Excalidraw/Pasted image 20231025195543.png",
-    "operating systems/Excalidraw&/Pasted image 20231025195543.png",
     "Untitled.canvas",
     "未命名.canvas"
   ]
