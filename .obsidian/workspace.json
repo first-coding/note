@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/算法模型.md",
+                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/算法模型.md",
+                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/算法模型.md",
+                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/算法模型.md"
+                "file": "Computer Network/计算机网络-无线网络和移动网络.md"
               }
             }
           },
@@ -178,36 +178,38 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3aeace10203f0b50",
+  "active": "09c04dd40332eb3a",
   "lastOpenFiles": [
-    "AI/DeepLearning/Tensorflow/张量.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
-    "AI/算法模型.md",
+    "Computer Network/计算机网络-链路层和局域网.md",
+    "Computer Network/计算机网络.md",
+    "Computer Network/多媒体网络.md",
+    "计算机知识.md",
     "AI/基础知识.md",
+    "README.md",
+    "架构和寄存器（第二版）说明.md",
+    "2023-10-29.md",
+    "AI/MachineLearning/算法模型(原理(公式)).md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/Tensorflow/张量.md",
+    "AI/MachineLearning",
+    "AI/未命名.md",
+    "programming language/C++.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
     "Pasted image 20240227170036.png",
     "Pasted image 20240227170035.png",
     "AI/模型算法.md",
     "AI/Pasted image 20240226170438.png",
-    "AI/DeepLearning/未命名.md",
-    "AI/未命名.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-运输层.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-09 16.41.36.excalidraw.md",
     "Computer Network/Excalidraw&img/Drawing 2023-08-09 17.02.21.excalidraw.md",
-    "Computer Network/多媒体网络.md",
-    "计算机知识.md",
     "operating systems/操作系统知识.md",
-    "programming language/C++.md",
     "operating systems/OS basic.md",
-    "架构和寄存器（第二版）说明.md",
-    "README.md",
-    "2023-10-29.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
     "AI/DeepLearning/Tensorflow",
@@ -224,7 +226,6 @@
     "algorithm",
     "Computer Network/Excalidraw&img/Pasted image 20230619101837.png",
     "Computer Network/Excalidraw&img/Pasted image 20230624102837.png",
-    "operating systems/Excalidraw&img",
     "Untitled.canvas",
     "未命名.canvas"
   ]
