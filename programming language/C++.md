@@ -553,6 +553,9 @@
 				- **ostringstream，wostringstream**向string写入数据
 				- **stringstream，wstringstream**读写string
 	- **容器**：一些特定类型对象的集合。每个容器都定义在一个头文件中。
+		- **pair**定义在头文件utility中，用于生成特定类型的模板，创建一个pair必须提供两个类型名（可以类型不同），
+			- eg: pair<int,int> name;
+			-  **ps**：pair可以用于容器中，例如stack<pair<int,int>> name等;
 		- **顺序容器**：为程序员提供了控制元素存储和访问顺序的能力。
 			- **PS：所有顺序容器都提供了快速顺序访问元素的能力。现代c++推荐使用标准库容器。**
 			- **vector**：可变大小数组，可快速随机访问。**但尾部之外插入或删除元素可能很慢。** 通常来说，vector是最好的选择。

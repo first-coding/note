@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
+                "file": "programming language/C++.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
+                "file": "programming language/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Network/计算机网络-无线网络和移动网络.md",
+                "file": "programming language/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Network/计算机网络-无线网络和移动网络.md"
+                "file": "programming language/C++.md"
               }
             }
           },
@@ -178,8 +178,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "09c04dd40332eb3a",
+  "active": "3aeace10203f0b50",
   "lastOpenFiles": [
+    "2023-10-29.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络.md",
     "Computer Network/多媒体网络.md",
@@ -187,7 +189,6 @@
     "AI/基础知识.md",
     "README.md",
     "架构和寄存器（第二版）说明.md",
-    "2023-10-29.md",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/Tensorflow/张量.md",
@@ -201,7 +202,6 @@
     "AI/Pasted image 20240226170438.png",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络中的安全.md",
