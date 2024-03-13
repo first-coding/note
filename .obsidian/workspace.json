@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md"
+                "file": "AI/DeepLearning/Tensorflow/Problem solving.md"
               }
             }
           },
@@ -180,15 +180,16 @@
   },
   "active": "3aeace10203f0b50",
   "lastOpenFiles": [
+    "AI/DeepLearning/Tensorflow/张量.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "AI/DeepLearning/Tensorflow/Problem solving.md",
+    "AI/DeepLearning/深度学习（花书）.md",
     "AI/img/Pasted image 20240310153654.png",
     "AI/img/Pasted image 20240310155007.png",
-    "AI/DeepLearning/深度学习（花书）.md",
     "AI/img/Pasted image 20240310152721.png",
     "AI/img/Pasted image 20240307183450.png",
     "AI/img/Pasted image 20240226170438.png",
     "programming language/C++.md",
-    "AI/DeepLearning/Tensorflow/张量.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/Excalidraw",
     "AI/img/Pasted image 20240307183439.png",
