@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c08c906b3eb05d1f",
+        "id": "2539ade9f9d26d22",
         "type": "tabs",
         "children": [
           {
-            "id": "3aeace10203f0b50",
+            "id": "0cd35c1d3d0f5709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Problem solving.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/Tensorflow/Problem solving.md"
+                "file": "AI/DeepLearning/深度学习（花书）.md"
               }
             }
           },
@@ -178,12 +178,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3aeace10203f0b50",
+  "active": "0cd35c1d3d0f5709",
   "lastOpenFiles": [
+    "Pasted image 20240314171948.png",
+    "Pasted image 20240314171827.png",
+    "AI/img/Pasted image 20240314171617.png",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/Tensorflow/Problem solving.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "AI/DeepLearning/Tensorflow/Basic.md",
-    "AI/DeepLearning/Tensorflow/Problem solving.md",
-    "AI/DeepLearning/深度学习（花书）.md",
     "AI/img/Pasted image 20240310153654.png",
     "AI/img/Pasted image 20240310155007.png",
     "AI/img/Pasted image 20240310152721.png",
@@ -196,8 +199,6 @@
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "AI/img/Pasted image 20240227170035.png",
     "AI/img/Pasted image 20240227170036.png",
-    "Pasted image 20240307183450.png",
-    "Pasted image 20240307183439.png",
     "AI/基础知识.md",
     "operating systems/OS basic.md",
     "operating systems/操作系统知识.md",
@@ -217,7 +218,6 @@
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-运输层.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
     "AI/DeepLearning/Tensorflow",
