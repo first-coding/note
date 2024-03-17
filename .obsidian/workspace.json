@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2539ade9f9d26d22",
+        "id": "1f5d30b8c1168892",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd35c1d3d0f5709",
+            "id": "2c51df822d6e8a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 433.5
   },
   "right": {
     "id": "7bd1cddd2c809fb7",
@@ -178,15 +178,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0cd35c1d3d0f5709",
+  "active": "2c51df822d6e8a8d",
   "lastOpenFiles": [
+    "Pasted image 20240317160006.png",
+    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
+    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/img/Pasted image 20240317152910.png",
+    "Excalidraw",
+    "AI/img/Pasted image 20240314171827.png",
+    "AI/img/Pasted image 20240317152805.png",
+    "AI/img/Pasted image 20240314171948.png",
     "AI/基础知识.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "AI/DeepLearning/Tensorflow/Problem solving.md",
     "AI/DeepLearning/Tensorflow/Basic.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "Pasted image 20240314171948.png",
-    "Pasted image 20240314171827.png",
     "AI/img/Pasted image 20240314171617.png",
     "AI/img/Pasted image 20240310153654.png",
     "AI/img/Pasted image 20240310155007.png",
@@ -194,11 +200,8 @@
     "AI/img/Pasted image 20240307183450.png",
     "AI/img/Pasted image 20240226170438.png",
     "programming language/C++.md",
-    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/Excalidraw",
-    "AI/img/Pasted image 20240307183439.png",
     "AI/MachineLearning/算法模型(原理(公式)).md",
-    "AI/img/Pasted image 20240227170035.png",
     "operating systems/OS basic.md",
     "operating systems/操作系统知识.md",
     "operating systems/并发.md",
@@ -216,7 +219,6 @@
     "AI/模型算法.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络-应用层.md",
     "AI/MachineLearning",
     "AI/DeepLearning",
     "AI/DeepLearning/Tensorflow",
@@ -224,7 +226,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "programming language",
-    "algorithm",
     "Untitled.canvas",
     "未命名.canvas"
   ]
