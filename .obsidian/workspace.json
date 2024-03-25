@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e140b549323348ed",
+    "id": "b71b19b349e978d8",
     "type": "split",
     "children": [
       {
-        "id": "1f5d30b8c1168892",
+        "id": "56cbb17ebd23e23c",
         "type": "tabs",
         "children": [
           {
-            "id": "2c51df822d6e8a8d",
+            "id": "7bb826bfb5bdd4c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -26,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7f206b07b69d6697",
+    "id": "293642f6bfcda211",
     "type": "split",
     "children": [
       {
-        "id": "82800dbf44be3e1d",
+        "id": "bf28182c0bfd0452",
         "type": "tabs",
         "children": [
           {
-            "id": "09c04dd40332eb3a",
+            "id": "6725df875eb2108f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "75fec69b96c95727",
+            "id": "a873165fd9c37044",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "c02bf052835081ba",
+            "id": "4ee1fe35b6935782",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,18 +70,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 300
   },
   "right": {
-    "id": "7bd1cddd2c809fb7",
+    "id": "61b72c5bdaaedac0",
     "type": "split",
     "children": [
       {
-        "id": "9711663def4e272e",
+        "id": "22d29261d242c476",
         "type": "tabs",
         "children": [
           {
-            "id": "be5ab15c601ae9b4",
+            "id": "36911c301abc2d60",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,12 +93,12 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5ddb493f38bc7c69",
+            "id": "8585c797fdceff16",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,28 +110,18 @@
             }
           },
           {
-            "id": "576782193aa6fb7a",
+            "id": "719295d44799f236",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "00da22c2c8e6d7fd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md"
-              }
-            }
-          },
-          {
-            "id": "937596b1f8f5eb57",
+            "id": "33c7ab14c744e049",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -143,7 +133,17 @@
             }
           },
           {
-            "id": "c0cfcb63af3523fb",
+            "id": "ba92d50aff347c34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/DeepLearning/深度学习（花书）.md"
+              }
+            }
+          },
+          {
+            "id": "05b7919ea3774b53",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -151,82 +151,32 @@
             }
           },
           {
-            "id": "b83594658fd06cb2",
+            "id": "b5f1c3f9f15c9687",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "juggl:Juggl global graph": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "juggl:Juggl global graph": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "2c51df822d6e8a8d",
-  "lastOpenFiles": [
-    "Pasted image 20240317160006.png",
-    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
-    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/img/Pasted image 20240317152910.png",
-    "Excalidraw",
-    "AI/img/Pasted image 20240314171827.png",
-    "AI/img/Pasted image 20240317152805.png",
-    "AI/img/Pasted image 20240314171948.png",
-    "AI/基础知识.md",
-    "AI/DeepLearning/Tensorflow/张量.md",
-    "AI/DeepLearning/Tensorflow/Problem solving.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
-    "AI/img/Pasted image 20240314171617.png",
-    "AI/img/Pasted image 20240310153654.png",
-    "AI/img/Pasted image 20240310155007.png",
-    "AI/img/Pasted image 20240310152721.png",
-    "AI/img/Pasted image 20240307183450.png",
-    "AI/img/Pasted image 20240226170438.png",
-    "programming language/C++.md",
-    "AI/Excalidraw",
-    "AI/MachineLearning/算法模型(原理(公式)).md",
-    "operating systems/OS basic.md",
-    "operating systems/操作系统知识.md",
-    "operating systems/并发.md",
-    "operating systems/架构和寄存器（第二版）.md",
-    "2023-10-29.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
-    "Computer Network/计算机网络.md",
-    "Computer Network/多媒体网络.md",
-    "计算机知识.md",
-    "README.md",
-    "架构和寄存器（第二版）说明.md",
-    "AI/MachineLearning",
-    "AI/未命名.md",
-    "AI/模型算法.md",
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "AI/MachineLearning",
-    "AI/DeepLearning",
-    "AI/DeepLearning/Tensorflow",
-    "AI",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "programming language",
-    "Untitled.canvas",
-    "未命名.canvas"
-  ]
+  "active": "7bb826bfb5bdd4c4",
+  "lastOpenFiles": []
 }
