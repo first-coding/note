@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "56cbb17ebd23e23c",
+        "id": "4c419d596f1c9f58",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb826bfb5bdd4c4",
+            "id": "4394d0cf36087232",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "5023123d2db25227",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +63,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -162,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +187,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7bb826bfb5bdd4c4",
+  "active": "5023123d2db25227",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "AI/DeepLearning/深度学习（花书）.md",
     "Pasted image 20240330150726.png",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "operating systems/架构和寄存器（第二版）.md",
@@ -200,7 +212,6 @@
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络.md",
     "Computer Network/多媒体网络.md",
-    "AI/DeepLearning/深度学习（花书）.md",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/基础知识.md",
     "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
