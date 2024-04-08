@@ -29,9 +29,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e06b5900e0f1c7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,8 +200,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5023123d2db25227",
+  "active": "e06b5900e0f1c7f7",
   "lastOpenFiles": [
+    "AI/img/Pasted image 20240408182250.png",
+    "AI/DeepLearning/Tensorflow/张量.md",
     "未命名.canvas",
     "AI/DeepLearning/深度学习（花书）.md",
     "Pasted image 20240330150726.png",
@@ -214,7 +229,6 @@
     "Computer Network/多媒体网络.md",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/基础知识.md",
-    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
-    "AI/DeepLearning/Tensorflow/张量.md"
+    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md"
   ]
 }
