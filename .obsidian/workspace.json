@@ -114,7 +114,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -201,12 +201,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36911c301abc2d60",
+  "active": "e06b5900e0f1c7f7",
   "lastOpenFiles": [
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/img/Pasted image 20240411151150.png",
+    "AI/img/Pasted image 20240411141305.png",
     "AI/img/Pasted image 20240408182250.png",
     "AI/DeepLearning/Tensorflow/张量.md",
     "未命名.canvas",
-    "AI/DeepLearning/深度学习（花书）.md",
     "Pasted image 20240330150726.png",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "operating systems/架构和寄存器（第二版）.md",
