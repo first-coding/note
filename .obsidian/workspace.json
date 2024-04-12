@@ -203,14 +203,18 @@
   },
   "active": "e06b5900e0f1c7f7",
   "lastOpenFiles": [
+    "AI/MachineLearning/算法模型(原理(公式)).md",
+    "AI/基础知识.md",
+    "AI/DeepLearning/Tensorflow/张量.md",
+    "AI/DeepLearning/Tensorflow/Problem solving.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "AI/DeepLearning/卷积神经网络.md",
     "AI/DeepLearning/深度学习（花书）.md",
     "AI/img/Pasted image 20240411151150.png",
     "AI/img/Pasted image 20240411141305.png",
     "AI/img/Pasted image 20240408182250.png",
-    "AI/DeepLearning/Tensorflow/张量.md",
     "未命名.canvas",
     "Pasted image 20240330150726.png",
-    "AI/MachineLearning/算法模型(原理(公式)).md",
     "operating systems/架构和寄存器（第二版）.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
@@ -229,9 +233,6 @@
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络.md",
-    "Computer Network/多媒体网络.md",
-    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
-    "AI/基础知识.md",
-    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md"
+    "Computer Network/多媒体网络.md"
   ]
 }
