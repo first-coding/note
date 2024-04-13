@@ -68,6 +68,14 @@
             }
           },
           {
+            "id": "4ee1fe35b6935782",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "a873165fd9c37044",
             "type": "leaf",
             "state": {
@@ -80,14 +88,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "4ee1fe35b6935782",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -203,18 +203,24 @@
   },
   "active": "e06b5900e0f1c7f7",
   "lastOpenFiles": [
+    "AI/DeepLearning/卷积神经网络.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "Pasted image 20240413143815.png",
+    "Pasted image 20240413134755.png",
+    "Pasted image 20240413130359.png",
+    "Pasted image 20240413130323.png",
+    "Pasted image 20240413130301.png",
+    "Pasted image 20240413130239.png",
+    "Pasted image 20240413130130.png",
+    "Pasted image 20240413130048.png",
+    "Pasted image 20240413130031.png",
+    "Pasted image 20240413124941.png",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "AI/基础知识.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "AI/DeepLearning/Tensorflow/Problem solving.md",
     "AI/DeepLearning/Tensorflow/Basic.md",
-    "AI/DeepLearning/卷积神经网络.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/img/Pasted image 20240411151150.png",
-    "AI/img/Pasted image 20240411141305.png",
-    "AI/img/Pasted image 20240408182250.png",
     "未命名.canvas",
-    "Pasted image 20240330150726.png",
     "operating systems/架构和寄存器（第二版）.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
@@ -232,7 +238,6 @@
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络.md",
-    "Computer Network/多媒体网络.md"
+    "Computer Network/计算机网络.md"
   ]
 }
