@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4c419d596f1c9f58",
+        "id": "b5ffcd624c3c8919",
         "type": "tabs",
         "children": [
           {
-            "id": "4394d0cf36087232",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "5023123d2db25227",
+            "id": "3905c3a05a5ee5dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e06b5900e0f1c7f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/卷积神经网络.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,11 +86,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
-                "collapseAll": false,
+                "file": "AI/DeepLearning/卷积神经网络.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/卷积神经网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md"
+                "file": "AI/DeepLearning/卷积神经网络.md"
               }
             }
           },
@@ -182,11 +158,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -201,10 +178,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e06b5900e0f1c7f7",
+  "active": "3905c3a05a5ee5dd",
   "lastOpenFiles": [
-    "AI/DeepLearning/卷积神经网络.md",
     "AI/DeepLearning/深度学习（花书）.md",
+    "AI/基础知识.md",
+    "AI/DeepLearning/Tensorflow/Basic.md",
+    "计算机知识.md",
+    "2024-04-14.md",
+    "AI/DeepLearning/卷积神经网络.md",
+    "Computer Network/计算机网络中的安全.md",
     "Pasted image 20240413143815.png",
     "Pasted image 20240413134755.png",
     "Pasted image 20240413130359.png",
@@ -216,21 +198,17 @@
     "Pasted image 20240413130031.png",
     "Pasted image 20240413124941.png",
     "AI/MachineLearning/算法模型(原理(公式)).md",
-    "AI/基础知识.md",
     "AI/DeepLearning/Tensorflow/张量.md",
     "AI/DeepLearning/Tensorflow/Problem solving.md",
-    "AI/DeepLearning/Tensorflow/Basic.md",
     "未命名.canvas",
     "operating systems/架构和寄存器（第二版）.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
-    "计算机知识.md",
     "2023-10-29.md",
     "programming language/C++.md",
     "operating systems/OS basic.md",
     "operating systems/操作系统知识.md",
     "operating systems/并发.md",
-    "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-应用层.md",
