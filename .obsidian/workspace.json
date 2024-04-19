@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/卷积神经网络.md",
-                "mode": "preview",
+                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#循环神经网络：一类用于处理序列数据的神经网络。",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/卷积神经网络.md",
+                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/卷积神经网络.md",
+                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/卷积神经网络.md"
+                "file": "AI/DeepLearning/循环神经网络（RNN）.md"
               }
             }
           },
@@ -181,8 +182,9 @@
   "active": "1d242fb7027883c4",
   "lastOpenFiles": [
     "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/循环神经网络（RNN）.md",
     "Pasted image 20240416200000.png",
-    "AI/DeepLearning/卷积神经网络.md",
     "AI/img/IMG_20240416_180548.jpg",
     "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
     "Excalidraw",
