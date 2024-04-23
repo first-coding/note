@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#循环神经网络：一类用于处理序列数据的神经网络。",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,6 +180,11 @@
   },
   "active": "1d242fb7027883c4",
   "lastOpenFiles": [
+    "AI/DeepLearning/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/循环神经网络（RNN）.md",
+    "Pasted image 20240423160528.png",
+    "Pasted image 20240423160400.png",
     "Pasted image 20240420151634.png",
     "Pasted image 20240420151413.png",
     "Pasted image 20240420150730.png",
@@ -189,14 +193,8 @@
     "Pasted image 20240420145830.png",
     "Pasted image 20240420145334.png",
     "Pasted image 20240420145328.png",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/循环神经网络（RNN）.md",
-    "Pasted image 20240416200000.png",
-    "AI/img/IMG_20240416_180548.jpg",
     "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
     "Excalidraw",
-    "AI/img/Pasted image 20240416175011.png",
     "AI/Excalidraw/Drawing 2024-04-16 18.02.04.excalidraw.md",
     "AI/DeepLearning/Tensorflow/Problem solving.md",
     "AI/基础知识.md",
