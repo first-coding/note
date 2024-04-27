@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e980c62ac3e24427",
+        "id": "d03de888191d4b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "1d242fb7027883c4",
+            "id": "025999bdc23ff678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
-                "mode": "source",
+                "file": "AI/DeepLearning/实践方法.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
+                "file": "AI/DeepLearning/实践方法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/循环神经网络（RNN）.md",
+                "file": "AI/DeepLearning/实践方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/循环神经网络（RNN）.md"
+                "file": "AI/DeepLearning/实践方法.md"
               }
             }
           },
@@ -178,30 +178,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1d242fb7027883c4",
+  "active": "025999bdc23ff678",
   "lastOpenFiles": [
+    "AI/DeepLearning/Tensorflow/Problem solving.md",
+    "AI/img/db21bce44cac8f54768f46f7072e1c3.jpg",
+    "AI/DeepLearning/实践方法.md",
+    "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
     "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/循环神经网络（RNN）.md",
-    "Pasted image 20240426221329.png",
+    "AI/基础知识.md",
     "AI/DeepLearning/卷积神经网络（CNN）.md",
+    "AI/MachineLearning/算法模型(原理(公式)).md",
+    "Excalidraw/Drawing 2024-04-27 16.04.03.excalidraw.md",
+    "Pasted image 20240426221329.png",
     "AI/DeepLearning/Tensorflow/Basic.md",
     "Pasted image 20240426212631.png",
     "Pasted image 20240426120924.png",
     "Pasted image 20240426120825.png",
     "计算机知识.md",
     "2023-10-29.md",
-    "AI/基础知识.md",
-    "AI/MachineLearning/算法模型(原理(公式)).md",
     "Pasted image 20240425161734.png",
     "Pasted image 20240425161121.png",
     "Pasted image 20240423160528.png",
     "Pasted image 20240423160400.png",
     "Pasted image 20240420151634.png",
-    "Pasted image 20240420151413.png",
     "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
     "Excalidraw",
     "AI/Excalidraw/Drawing 2024-04-16 18.02.04.excalidraw.md",
-    "AI/DeepLearning/Tensorflow/Problem solving.md",
     "2024-04-14.md",
     "Computer Network/计算机网络中的安全.md",
     "AI/DeepLearning/Tensorflow/张量.md",
@@ -214,8 +217,6 @@
     "operating systems/操作系统知识.md",
     "operating systems/并发.md",
     "Computer Network/计算机网络和因特网.md",
-    "Computer Network/计算机网络-运输层.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md"
+    "Computer Network/计算机网络-运输层.md"
   ]
 }
