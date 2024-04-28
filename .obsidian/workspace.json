@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/实践方法.md",
+                "file": "AI/DeepLearning/实践方法&&应用.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/实践方法.md",
+                "file": "AI/DeepLearning/实践方法&&应用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/实践方法.md",
+                "file": "AI/DeepLearning/实践方法&&应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/实践方法.md"
+                "file": "AI/DeepLearning/实践方法&&应用.md"
               }
             }
           },
@@ -180,14 +180,19 @@
   },
   "active": "025999bdc23ff678",
   "lastOpenFiles": [
+    "AI/DeepLearning/循环神经网络（RNN）.md",
+    "AI/DeepLearning/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "Pasted image 20240428155234.png",
+    "Pasted image 20240428155124.png",
+    "Pasted image 20240428154958.png",
+    "Pasted image 20240428154948.png",
+    "Pasted image 20240428154932.png",
     "AI/DeepLearning/Tensorflow/Problem solving.md",
     "AI/img/db21bce44cac8f54768f46f7072e1c3.jpg",
-    "AI/DeepLearning/实践方法.md",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/循环神经网络（RNN）.md",
     "AI/基础知识.md",
-    "AI/DeepLearning/卷积神经网络（CNN）.md",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "Excalidraw/Drawing 2024-04-27 16.04.03.excalidraw.md",
     "Pasted image 20240426221329.png",
@@ -197,11 +202,6 @@
     "Pasted image 20240426120825.png",
     "计算机知识.md",
     "2023-10-29.md",
-    "Pasted image 20240425161734.png",
-    "Pasted image 20240425161121.png",
-    "Pasted image 20240423160528.png",
-    "Pasted image 20240423160400.png",
-    "Pasted image 20240420151634.png",
     "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
     "Excalidraw",
     "AI/Excalidraw/Drawing 2024-04-16 18.02.04.excalidraw.md",
