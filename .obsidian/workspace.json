@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42c791cb268a4fc9",
+        "id": "4f04a8088b257bd8",
         "type": "tabs",
         "children": [
           {
-            "id": "b17498a797d71c52",
+            "id": "f1535b76de85b44c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practiec Summary/服务器相关的.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practiec Summary/服务器相关的.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practiec Summary/服务器相关的.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practiec Summary/服务器相关的.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -178,47 +178,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b17498a797d71c52",
+  "active": "f1535b76de85b44c",
   "lastOpenFiles": [
-    "Pasted image 20240430151811.png",
-    "Practiec Summary/服务器相关的.md",
-    "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
-    "Practiec Summary",
-    "Excalidraw/Drawing 2024-04-27 16.04.03.excalidraw.md",
-    "计算机知识.md",
-    "架构和寄存器（第二版）说明.md",
-    "2023-10-29.md",
-    "operating systems/OS basic.md",
-    "programming language/C++.md",
-    "README.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/实践方法&&应用.md",
     "AI/DeepLearning/循环神经网络（RNN）.md",
     "AI/DeepLearning/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/基础知识.md",
+    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
+    "AI/Tensorflow/Basic.md",
+    "Practiec Summary/服务器相关的.md",
+    "programming language/C++.md",
+    "架构和寄存器（第二版）说明.md",
+    "计算机知识.md",
+    "2023-10-29.md",
+    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
+    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
+    "operating systems/并发.md",
+    "img/Pasted image 20240430151811.png",
+    "Pasted image 20240430151811.png",
+    "Excalidraw/Drawing 2024-04-16 18.07.34.excalidraw.md",
+    "Practiec Summary",
+    "Excalidraw/Drawing 2024-04-27 16.04.03.excalidraw.md",
+    "operating systems/OS basic.md",
+    "README.md",
     "Pasted image 20240428155234.png",
     "Pasted image 20240428155124.png",
     "Pasted image 20240428154958.png",
     "Pasted image 20240428154948.png",
     "Pasted image 20240428154932.png",
-    "AI/DeepLearning/Tensorflow/Problem solving.md",
+    "AI/Tensorflow/Problem solving.md",
     "AI/img/db21bce44cac8f54768f46f7072e1c3.jpg",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
-    "AI/基础知识.md",
     "AI/MachineLearning/算法模型(原理(公式)).md",
     "Pasted image 20240426221329.png",
-    "AI/DeepLearning/Tensorflow/Basic.md",
-    "Pasted image 20240426212631.png",
-    "Pasted image 20240426120924.png",
-    "Pasted image 20240426120825.png",
     "Excalidraw",
     "AI/Excalidraw/Drawing 2024-04-16 18.02.04.excalidraw.md",
     "2024-04-14.md",
     "Computer Network/计算机网络中的安全.md",
-    "AI/DeepLearning/Tensorflow/张量.md",
+    "AI/Tensorflow/张量.md",
     "未命名.canvas",
-    "operating systems/架构和寄存器（第二版）.md",
-    "operating systems/操作系统知识.md",
-    "operating systems/并发.md",
-    "Computer Network/计算机网络和因特网.md"
+    "operating systems/架构和寄存器（第二版）.md"
   ]
 }
