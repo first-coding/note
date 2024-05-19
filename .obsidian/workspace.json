@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/OS.md",
-                "mode": "source",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/OS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/OS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/OS.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -178,21 +178,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6725df875eb2108f",
+  "active": "f1535b76de85b44c",
   "lastOpenFiles": [
-    "operating systems/操作系统知识.md",
-    "Computer Network/计算机网络中的安全.md",
-    "Practiec Summary/服务器相关的.md",
-    "2023-10-29.md",
+    "AI/DeepLearning/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/循环神经网络（RNN）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "operating systems/OS.md",
     "计算机知识.md",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/操作系统知识.md",
+    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
+    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
+    "programming language/C++.md",
+    "Practiec Summary/服务器相关的.md",
+    "Computer Network/计算机网络中的安全.md",
+    "2023-10-29.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
-    "operating systems/OS.md",
-    "operating systems/架构和寄存器（第二版）.md",
     "Computer Network/计算机网络-应用层.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/多媒体网络.md",
-    "AI/DeepLearning/实践方法&&应用.md",
     "OS basic.md",
     "img/Pasted image 20240430151811.png",
     "operating systems/OS basic.md",
@@ -200,14 +207,6 @@
     "AI/Tensorflow/张量.md",
     "AI/Tensorflow/Basic.md",
     "AI/Tensorflow/Problem solving.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/循环神经网络（RNN）.md",
-    "AI/DeepLearning/卷积神经网络（CNN）.md",
-    "AI/基础知识.md",
-    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
-    "programming language/C++.md",
-    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "Pasted image 20240430151811.png",
     "Practiec Summary",
     "Pasted image 20240428155234.png",
