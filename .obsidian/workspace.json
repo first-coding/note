@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AI/DeepLearning/深度学习（花书二）.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -180,11 +180,11 @@
   },
   "active": "f1535b76de85b44c",
   "lastOpenFiles": [
-    "AI/DeepLearning/卷积神经网络（CNN）.md",
     "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/循环神经网络（RNN）.md",
     "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/循环神经网络（RNN）.md",
+    "AI/DeepLearning/卷积神经网络（CNN）.md",
     "operating systems/OS.md",
     "计算机知识.md",
     "operating systems/架构和寄存器（第二版）.md",
