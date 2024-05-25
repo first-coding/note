@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09ced2c302810e9d",
+        "id": "6e02a955fda88ded",
         "type": "tabs",
         "children": [
           {
-            "id": "cf8fb7c57dac697e",
+            "id": "378f06f02d26fc71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/model_Network/Transformer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/model_Network/Transformer.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/model_Network/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md"
+                "file": "AI/DeepLearning/model_Network/Transformer.md"
               }
             }
           },
@@ -178,14 +178,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cf8fb7c57dac697e",
+  "active": "378f06f02d26fc71",
   "lastOpenFiles": [
-    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/img/Pasted image 20240525174444.png",
+    "AI/img/Pasted image 20240525173909.png",
+    "AI/img/Pasted image 20240525173603.png",
+    "AI/img/Pasted image 20240525172610.png",
+    "AI/img/Pasted image 20240525171455.png",
+    "AI/img/Pasted image 20240525164628.png",
+    "AI/img/Pasted image 20240525164449.png",
+    "AI/img/Pasted image 20240525164358.png",
+    "AI/img/Pasted image 20240525164333.png",
+    "AI/img/Pasted image 20240525153412.png",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/model_Network",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/未命名.md",
+    "未命名.md",
+    "深度学习（花书）^.md",
     "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统知识.md",
-    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
     "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
     "计算机知识.md",
     "README.md",
@@ -196,27 +213,11 @@
     "AI/MachineLearning/机器学习(原理(公式)).md",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/基础知识.md",
-    "深度学习（花书）^.md",
     "深度学习（花书.md",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/循环神经网络（RNN）.md",
-    "AI/DeepLearning/卷积神经网络（CNN）.md",
     "programming language/C++.md",
     "Computer Network/计算机网络中的安全.md",
-    "2023-10-29.md",
-    "架构和寄存器（第二版）说明.md",
-    "Computer Network/计算机网络-应用层.md",
-    "img/Pasted image 20240430151811.png",
-    "Pasted image 20240430151811.png",
     "Practiec Summary",
-    "Pasted image 20240428155234.png",
-    "Pasted image 20240428155124.png",
-    "Pasted image 20240428154958.png",
-    "Pasted image 20240428154948.png",
-    "Pasted image 20240428154932.png",
-    "AI/img/db21bce44cac8f54768f46f7072e1c3.jpg",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
-    "Pasted image 20240426221329.png",
     "Excalidraw",
     "未命名.canvas"
   ]
