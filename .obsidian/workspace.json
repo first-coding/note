@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
-                "mode": "preview",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -180,10 +180,10 @@
   },
   "active": "378f06f02d26fc71",
   "lastOpenFiles": [
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "Pasted image 20240531164645.png",
     "Pasted image 20240531164642.png",
