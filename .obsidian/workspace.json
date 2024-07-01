@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
+                "file": "AI/DeepLearning/LOSS/LOSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 403.5
   },
   "right": {
     "id": "61b72c5bdaaedac0",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
+                "file": "AI/DeepLearning/LOSS/LOSS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
+                "file": "AI/DeepLearning/LOSS/LOSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md"
+                "file": "AI/DeepLearning/LOSS/LOSS.md"
               }
             }
           },
@@ -204,6 +204,10 @@
   },
   "active": "14fd180f6056e6b2",
   "lastOpenFiles": [
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/LOSS/LOSS.md",
+    "AI/DeepLearning/LOSS",
+    "AI/DeepLearning/未命名.md",
     "Pasted image 20240630235414.png",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-控制平面.md",
@@ -218,7 +222,6 @@
     "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "Pasted image 20240531164645.png",
     "Pasted image 20240531164642.png",
@@ -233,7 +236,6 @@
     "AI/img/Pasted image 20240525173909.png",
     "AI/img/Pasted image 20240525173603.png",
     "AI/img/Pasted image 20240525172610.png",
-    "AI/img/Pasted image 20240525171455.png",
     "AI/DeepLearning/model_Network",
     "AI/未命名.md",
     "未命名.md",
@@ -241,7 +243,6 @@
     "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统知识.md",
-    "operating systems/Excalidraw&img/Drawing 2023-10-25 19.48.35.excalidraw.md",
     "Practiec Summary",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
     "未命名.canvas"
