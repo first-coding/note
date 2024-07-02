@@ -1,0 +1,12 @@
+- 结构：![[Pasted image 20240701185619.png]]
+	- ResNet-n：这个n表示网络中堆叠的残差块的总层数。
+- bottleneck分为两种：
+	- bottleneckIdentity：输入与输出通道是一样的情况
+		- ![[Pasted image 20240701185727.png]]
+		- 在ResNet-50中常用的是右边这种
+	- bottleneckProjection：输入与输出通常不同
+		- 与bottleneckIdentity唯一的区别就是在多了一个$1*1$的卷积核
+	- ![[Pasted image 20240701185908.png]]
+- **卷积核计算得到的矩阵大小**：$H_{out}=\frac{H_{in}-K+2p}{S}+1$ 其中$H_{in}$为输入矩阵的宽度，K为卷积核大小，p为填充的大小，S为步幅，$W_{out}$也是同理。
+- **池化后得到的矩阵大小**：$H_{out}=\frac{H_{in}-F+2p}{S}+1$ 其中$H_{in}$为输入的矩阵的宽度，F为池化窗口的大小，p为填充的大小，S为步长。$W_{out}$也是同理。
+- 损失函数也是使用[[LOSS#^107ffd|交叉熵]]来计算。大部分优化器、防止过拟合技术、训练和[[Transformer#5.Vision Transformer|Vision Transformer]]差不多。

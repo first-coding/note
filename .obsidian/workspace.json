@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Network/计算机网络-运输层.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,25 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/LOSS/LOSS.md",
+                "file": "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd1a2a4e828df284",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/LOSS/LOSS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/LOSS/LOSS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/LOSS/LOSS.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -202,47 +191,47 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "14fd180f6056e6b2",
+  "active": "378f06f02d26fc71",
   "lastOpenFiles": [
+    "Pasted image 20240702163426.png",
+    "Pasted image 20240702143923.png",
+    "Pasted image 20240702143613.png",
+    "Pasted image 20240702143408.png",
+    "Pasted image 20240702142459.png",
+    "Pasted image 20240702142325.png",
+    "Pasted image 20240702142257.png",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/model_Network/ResNet.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/LOSS/LOSS.md",
+    "Pasted image 20240701185908.png",
+    "Pasted image 20240701185906.png",
+    "Pasted image 20240701185727.png",
+    "Pasted image 20240701185619.png",
+    "Computer Network/计算机网络-运输层.md",
     "AI/DeepLearning/LOSS",
     "AI/DeepLearning/未命名.md",
-    "Pasted image 20240630235414.png",
     "Computer Network/计算机网络-无线网络和移动网络.md",
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/计算机网络-数据平面.md",
     "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-运输层.md",
     "Computer Network/计算机网络-链路层和局域网.md",
     "Computer Network/Excalidraw&img/Drawing 2023-06-28 11.38.55.excalidraw.md",
     "Computer Network/计算机网络中的安全.md",
     "Computer Network/计算机网络和因特网.md",
     "Computer Network/计算机网络.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
-    "Pasted image 20240531164645.png",
-    "Pasted image 20240531164642.png",
-    "Pasted image 20240531164630.png",
-    "AI/img/Pasted image 20240526155927.png",
     "Excalidraw/Drawing 2024-05-26 16.27.47.excalidraw.md",
-    "Pasted image 20240526155927.png",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
     "Excalidraw/Drawing 2024-05-26 15.25.35.excalidraw.md",
     "Excalidraw",
-    "AI/img/Pasted image 20240525174444.png",
-    "AI/img/Pasted image 20240525173909.png",
-    "AI/img/Pasted image 20240525173603.png",
-    "AI/img/Pasted image 20240525172610.png",
     "AI/DeepLearning/model_Network",
     "AI/未命名.md",
     "未命名.md",
     "深度学习（花书）^.md",
     "operating systems/OS.md",
-    "operating systems/架构和寄存器（第二版）.md",
-    "operating systems/操作系统知识.md",
     "Practiec Summary",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
     "未命名.canvas"
