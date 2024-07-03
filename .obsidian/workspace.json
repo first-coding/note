@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md"
+                "file": "AI/DeepLearning/深度学习（花书）.md"
               }
             }
           },
@@ -193,25 +193,24 @@
   },
   "active": "378f06f02d26fc71",
   "lastOpenFiles": [
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "Pasted image 20240703145423.png",
+    "Pasted image 20240703112627.png",
+    "Pasted image 20240703112439.png",
+    "Pasted image 20240703102730.png",
+    "Pasted image 20240703101804.png",
+    "Pasted image 20240703101648.png",
     "Pasted image 20240702163426.png",
     "Pasted image 20240702143923.png",
     "Pasted image 20240702143613.png",
     "Pasted image 20240702143408.png",
-    "Pasted image 20240702142459.png",
-    "Pasted image 20240702142325.png",
-    "Pasted image 20240702142257.png",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/深度学习（花书）.md",
     "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/ResNet.md",
     "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/LOSS/LOSS.md",
-    "Pasted image 20240701185908.png",
-    "Pasted image 20240701185906.png",
-    "Pasted image 20240701185727.png",
-    "Pasted image 20240701185619.png",
     "Computer Network/计算机网络-运输层.md",
     "AI/DeepLearning/LOSS",
     "AI/DeepLearning/未命名.md",
