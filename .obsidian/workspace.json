@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -193,19 +193,19 @@
   },
   "active": "378f06f02d26fc71",
   "lastOpenFiles": [
-    "AI/DeepLearning/深度学习（花书二）.md",
     "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "Pasted image 20240704153825.png",
+    "Pasted image 20240704153812.png",
+    "Pasted image 20240704153800.png",
+    "Pasted image 20240704153448.png",
+    "Pasted image 20240704153002.png",
+    "Pasted image 20240704152923.png",
     "AI/DeepLearning/实践方法&&应用.md",
     "Pasted image 20240703145423.png",
     "Pasted image 20240703112627.png",
     "Pasted image 20240703112439.png",
     "Pasted image 20240703102730.png",
-    "Pasted image 20240703101804.png",
-    "Pasted image 20240703101648.png",
-    "Pasted image 20240702163426.png",
-    "Pasted image 20240702143923.png",
-    "Pasted image 20240702143613.png",
-    "Pasted image 20240702143408.png",
     "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/ResNet.md",
     "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
