@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
-                "mode": "preview",
+                "file": "operating systems/OS.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "operating systems/OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "operating systems/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md"
+                "file": "operating systems/OS.md"
               }
             }
           },
@@ -193,6 +193,28 @@
   },
   "active": "378f06f02d26fc71",
   "lastOpenFiles": [
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/操作系统知识.md",
+    "架构和寄存器（第二版）说明.md",
+    "README.md",
+    "计算机知识.md",
+    "2023-10-29.md",
+    "programming language/C++.md",
+    "Practiec Summary/服务器相关的.md",
+    "AI/Tensorflow/Problem solving.md",
+    "AI/Tensorflow/Basic.md",
+    "AI/Tensorflow/张量.md",
+    "AI/基础知识.md",
+    "AI/MachineLearning/机器学习(原理(公式)).md",
+    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
+    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
+    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/model_Network/ResNet.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
     "Pasted image 20240705172055.png",
     "Pasted image 20240705171906.png",
     "Pasted image 20240705164559.png",
@@ -201,37 +223,15 @@
     "Pasted image 20240705163914.png",
     "Pasted image 20240705163903.png",
     "Pasted image 20240705163752.png",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
     "Pasted image 20240705163657.png",
     "Pasted image 20240705163625.png",
-    "Pasted image 20240705154227.png",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
-    "AI/DeepLearning/model_Network/ResNet.md",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
-    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "AI/DeepLearning/LOSS/LOSS.md",
     "Computer Network/计算机网络-运输层.md",
     "AI/DeepLearning/LOSS",
     "AI/DeepLearning/未命名.md",
     "Computer Network/计算机网络-无线网络和移动网络.md",
-    "Computer Network/计算机网络-控制平面.md",
-    "Computer Network/计算机网络-数据平面.md",
-    "Computer Network/计算机网络-应用层.md",
-    "Computer Network/计算机网络-链路层和局域网.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-06-28 11.38.55.excalidraw.md",
-    "Computer Network/计算机网络中的安全.md",
-    "Computer Network/计算机网络和因特网.md",
-    "Computer Network/计算机网络.md",
-    "Excalidraw/Drawing 2024-05-26 16.27.47.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-26 15.25.35.excalidraw.md",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
-    "AI/未命名.md",
-    "未命名.md",
-    "深度学习（花书）^.md",
-    "operating systems/OS.md",
     "Practiec Summary",
     "AI/img/~b21bce44cac8f54768f46f7072e1c3.tmp",
     "未命名.canvas"
