@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operating systems/OS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "14fd180f6056e6b2",
+            "id": "5204fcffc549684e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating systems/OS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating systems/OS.md",
+                "file": "AI/DeepLearning/深度学习（花书二）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "operating systems/OS.md"
+                "file": "AI/DeepLearning/深度学习（花书二）.md"
               }
             }
           },
@@ -191,8 +192,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "378f06f02d26fc71",
+  "active": "5204fcffc549684e",
   "lastOpenFiles": [
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "Pasted image 20240706164302.png",
+    "Pasted image 20240706164232.png",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
+    "Pasted Image 20240706163534_324.png",
+    "Pasted Image 20240706163137_165.png",
+    "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统知识.md",
     "架构和寄存器（第二版）说明.md",
@@ -212,24 +222,14 @@
     "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
     "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/ResNet.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/实践方法&&应用.md",
     "Pasted image 20240705172055.png",
     "Pasted image 20240705171906.png",
     "Pasted image 20240705164559.png",
     "Pasted image 20240705164301.png",
     "Pasted image 20240705164013.png",
     "Pasted image 20240705163914.png",
-    "Pasted image 20240705163903.png",
-    "Pasted image 20240705163752.png",
-    "Pasted image 20240705163657.png",
-    "Pasted image 20240705163625.png",
     "AI/DeepLearning/LOSS/LOSS.md",
-    "Computer Network/计算机网络-运输层.md",
     "AI/DeepLearning/LOSS",
-    "AI/DeepLearning/未命名.md",
-    "Computer Network/计算机网络-无线网络和移动网络.md",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
     "Practiec Summary",
