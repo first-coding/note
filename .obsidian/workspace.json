@@ -192,14 +192,58 @@
       "command-palette:打开命令面板": false
     }
   },
+  "floating": {
+    "id": "f95feecbd3a63451",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5fec132029bea12d",
+        "type": "window",
+        "children": [
+          {
+            "id": "5de7a5146f7a146a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69a2f4ef967306a7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 212,
+        "y": 13,
+        "width": 1024,
+        "height": 801,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5204fcffc549684e",
   "lastOpenFiles": [
-    "AI/DeepLearning/深度学习（花书）.md",
+    "Pasted image 20240707161750.png",
+    "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
     "AI/DeepLearning/深度学习（花书二）.md",
+    "Pasted image 20240707150931.png",
+    "Pasted image 20240707150929.png",
+    "Pasted image 20240707150926.png",
+    "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
+    "Pasted Image 20240707114458_155.png",
+    "Pasted Image 20240707114434_156.png",
+    "Pasted Image 20240707114204_284.png",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/深度学习（花书）.md",
     "Pasted image 20240706164302.png",
     "Pasted image 20240706164232.png",
     "AI/DeepLearning/实践方法&&应用.md",
-    "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
     "Pasted Image 20240706163534_324.png",
     "Pasted Image 20240706163137_165.png",
     "operating systems/OS.md",
@@ -219,16 +263,8 @@
     "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
     "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/ResNet.md",
-    "Pasted image 20240705172055.png",
-    "Pasted image 20240705171906.png",
-    "Pasted image 20240705164559.png",
-    "Pasted image 20240705164301.png",
-    "Pasted image 20240705164013.png",
-    "Pasted image 20240705163914.png",
-    "AI/DeepLearning/LOSS/LOSS.md",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
