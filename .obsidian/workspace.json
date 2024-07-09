@@ -192,46 +192,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "floating": {
-    "id": "f95feecbd3a63451",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5fec132029bea12d",
-        "type": "window",
-        "children": [
-          {
-            "id": "5de7a5146f7a146a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "69a2f4ef967306a7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 212,
-        "y": 13,
-        "width": 1024,
-        "height": 801,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5204fcffc549684e",
   "lastOpenFiles": [
-    "Pasted image 20240707161750.png",
     "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
     "AI/DeepLearning/深度学习（花书二）.md",
+    "Pasted image 20240707161750.png",
     "Pasted image 20240707150931.png",
     "Pasted image 20240707150929.png",
     "Pasted image 20240707150926.png",
@@ -245,7 +210,6 @@
     "Pasted image 20240706164232.png",
     "AI/DeepLearning/实践方法&&应用.md",
     "Pasted Image 20240706163534_324.png",
-    "Pasted Image 20240706163137_165.png",
     "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统知识.md",
