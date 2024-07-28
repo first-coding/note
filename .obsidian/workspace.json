@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d63b650fa25014ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +37,9 @@
             "id": "5204fcffc549684e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md"
               }
             }
           }
@@ -71,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#自编码器：",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md",
+                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书二）.md"
+                "file": "AI/DeepLearning/model_Network/深度生成模型.md"
               }
             }
           },
@@ -192,23 +202,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5204fcffc549684e",
+  "active": "d63b650fa25014ff",
   "lastOpenFiles": [
-    "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
     "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/model_Network/深度生成模型.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/model_Network/ResNet.md",
+    "AI/DeepLearning/LOSS/LOSS.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
+    "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
     "Pasted image 20240707161750.png",
     "Pasted image 20240707150931.png",
     "Pasted image 20240707150929.png",
     "Pasted image 20240707150926.png",
-    "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
     "Pasted Image 20240707114458_155.png",
     "Pasted Image 20240707114434_156.png",
     "Pasted Image 20240707114204_284.png",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
-    "AI/DeepLearning/深度学习（花书）.md",
     "Pasted image 20240706164302.png",
     "Pasted image 20240706164232.png",
-    "AI/DeepLearning/实践方法&&应用.md",
     "Pasted Image 20240706163534_324.png",
     "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
@@ -225,10 +240,6 @@
     "AI/基础知识.md",
     "AI/MachineLearning/机器学习(原理(公式)).md",
     "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
-    "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
-    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
-    "AI/DeepLearning/model_Network/ResNet.md",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
