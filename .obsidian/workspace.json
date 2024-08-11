@@ -4,47 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6e02a955fda88ded",
+        "id": "69fd492a1a7d9cbd",
         "type": "tabs",
         "children": [
           {
-            "id": "378f06f02d26fc71",
+            "id": "ee94217b6dfdb9ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/深度学习（花书）.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d63b650fa25014ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
+                "file": "Practiec Summary/warehouse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "5204fcffc549684e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
+                "file": "Practiec Summary/warehouse.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DeepLearning/model_Network/深度生成模型.md",
+                "file": "Practiec Summary/warehouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DeepLearning/model_Network/深度生成模型.md"
+                "file": "Practiec Summary/warehouse.md"
               }
             }
           },
@@ -182,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,18 +177,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d63b650fa25014ff",
+  "active": "ee94217b6dfdb9ed",
   "lastOpenFiles": [
-    "AI/DeepLearning/深度学习（花书二）.md",
+    "Practiec Summary/服务器相关的.md",
+    "Practiec Summary/warehouse.md",
+    "AI/DeepLearning/实践方法&&应用.md",
     "AI/DeepLearning/model_Network/深度生成模型.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
+    "Pasted image 20240811160809.png",
+    "Pasted image 20240811160740.png",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "Pasted image 20240811155353.png",
+    "Pasted image 20240811155338.png",
     "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "AI/DeepLearning/model_Network/ResNet.md",
-    "AI/DeepLearning/LOSS/LOSS.md",
-    "AI/DeepLearning/实践方法&&应用.md",
     "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/LOSS/LOSS.md",
     "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
     "Pasted image 20240707161750.png",
     "Pasted image 20240707150931.png",
@@ -221,10 +202,6 @@
     "Pasted image 20240707150926.png",
     "Pasted Image 20240707114458_155.png",
     "Pasted Image 20240707114434_156.png",
-    "Pasted Image 20240707114204_284.png",
-    "Pasted image 20240706164302.png",
-    "Pasted image 20240706164232.png",
-    "Pasted Image 20240706163534_324.png",
     "operating systems/OS.md",
     "operating systems/架构和寄存器（第二版）.md",
     "operating systems/操作系统知识.md",
@@ -233,13 +210,11 @@
     "计算机知识.md",
     "2023-10-29.md",
     "programming language/C++.md",
-    "Practiec Summary/服务器相关的.md",
     "AI/Tensorflow/Problem solving.md",
     "AI/Tensorflow/Basic.md",
     "AI/Tensorflow/张量.md",
     "AI/基础知识.md",
     "AI/MachineLearning/机器学习(原理(公式)).md",
-    "AI/Excalidraw/Drawing 2024-03-17 15.41.15.excalidraw.md",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
