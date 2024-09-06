@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "vimMode": false
 }
