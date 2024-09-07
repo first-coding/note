@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practiec Summary/SQL.md",
+                "file": "operating systems/OS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practiec Summary/SQL.md",
+                "file": "operating systems/OS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practiec Summary/SQL.md",
+                "file": "operating systems/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practiec Summary/SQL.md"
+                "file": "operating systems/OS.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "ee94217b6dfdb9ed",
   "lastOpenFiles": [
-    "Practiec Summary/warehouse.md",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/操作系统知识.md",
     "Practiec Summary/SQL.md",
+    "Practiec Summary/warehouse.md",
     "Practiec Summary/服务器相关的.md",
     "AI/DeepLearning/model_Network/深度生成模型.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
@@ -204,8 +206,6 @@
     "Pasted Image 20240707114458_155.png",
     "Pasted Image 20240707114434_156.png",
     "operating systems/OS.md",
-    "operating systems/架构和寄存器（第二版）.md",
-    "operating systems/操作系统知识.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
     "计算机知识.md",
