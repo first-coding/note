@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/Fine tuning.md",
+                "file": "AI/DeepLearning/深度学习（花书）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fine tuning"
+              "title": "深度学习（花书）"
             }
           },
           {
@@ -192,12 +192,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "b5f1c3f9f15c9687",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "4259351edcb9f71e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "b5f1c3f9f15c9687",
+            "id": "68a414d5febb03c0",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -215,25 +235,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "juggl:Juggl global graph": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "juggl:Juggl global graph": false
     }
   },
   "active": "fcebe1cee096c5a5",
   "lastOpenFiles": [
-    "Pasted image 20241018175436.png",
-    "AI/DeepLearning/实践方法&&应用.md",
     "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/Fine tuning.md",
     "AI/DeepLearning/深度学习（花书）.md",
+    "Computer Network/计算机网络和因特网.md",
+    "Computer Network/计算机网络-应用层.md",
+    "Computer Network/计算机网络-无线网络和移动网络.md",
+    "Computer Network/计算机网络-控制平面.md",
+    "Computer Network/多媒体网络.md",
+    "Pasted image 20241019000228.png",
+    "Pasted image 20241018175436.png",
     "AI/DeepLearning/model_Network/ResNet.md",
     "AI/DeepLearning/model_Network/深度生成模型.md",
-    "AI/DeepLearning/Fine tuning.md",
     "Pasted image 20241018172824.png",
     "AI/DeepLearning/model_Network/Transformer.md",
     "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
@@ -257,12 +283,6 @@
     "Pasted image 20240707161750.png",
     "Pasted image 20240707150931.png",
     "Pasted image 20240707150929.png",
-    "Pasted image 20240707150926.png",
-    "Pasted Image 20240707114458_155.png",
-    "架构和寄存器（第二版）说明.md",
-    "README.md",
-    "计算机知识.md",
-    "2023-10-29.md",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
