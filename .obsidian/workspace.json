@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/MachineLearning/机器学习.md",
+                "file": "计算机知识.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "机器学习"
+              "title": "计算机知识"
             }
           }
         ]
@@ -221,6 +221,10 @@
   },
   "active": "fb7642f3b636d401",
   "lastOpenFiles": [
+    "架构和寄存器（第二版）说明.md",
+    "README.md",
+    "计算机知识.md",
+    "AI/MachineLearning/机器学习.md",
     "AI/img/Pasted image 20241110103306.png",
     "AI/img/Pasted image 20241110103127.png",
     "AI/img/Pasted image 20241110103118.png",
@@ -231,10 +235,8 @@
     "AI/img/Pasted image 20241110101558.png",
     "AI/img/Pasted image 20241108175320.png",
     "AI/img/Pasted image 20241108173840.png",
-    "AI/img/Pasted image 20241108173415.png",
     "AI/西瓜书.pdf",
     "AI/基础知识.md",
-    "AI/MachineLearning/机器学习.md",
     "AI/西瓜书.pdf.crdownload",
     "AI/笔试准备.md",
     "AI/Tensorflow/张量.md",
@@ -257,8 +259,6 @@
     "Computer Network/计算机网络-控制平面.md",
     "Computer Network/多媒体网络.md",
     "operating systems/OS.md",
-    "Excalidraw/Drawing 2024-10-09 17.50.01.excalidraw.md",
-    "operating systems/架构和寄存器（第二版）.md",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
     "AI/DeepLearning/model_Network",
