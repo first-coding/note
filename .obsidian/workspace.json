@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机知识.md",
+                "file": "AI/MachineLearning/机器学习.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机知识"
+              "title": "机器学习"
+            }
+          },
+          {
+            "id": "770c72a1b4186940",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +232,16 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "fb7642f3b636d401",
+  "active": "770c72a1b4186940",
   "lastOpenFiles": [
+    "AI/DeepLearning/Fine tuning.md",
+    "AI/DeepLearning/深度学习（花书）.md",
+    "AI/MachineLearning/机器学习.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "计算机知识.md",
     "架构和寄存器（第二版）说明.md",
     "README.md",
-    "计算机知识.md",
-    "AI/MachineLearning/机器学习.md",
     "AI/img/Pasted image 20241110103306.png",
     "AI/img/Pasted image 20241110103127.png",
     "AI/img/Pasted image 20241110103118.png",
@@ -243,10 +260,6 @@
     "AI/Tensorflow/Basic.md",
     "AI/Tensorflow/Problem solving.md",
     "AI/MachineLearning/数学基础知识.md",
-    "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/DeepLearning/Fine tuning.md",
     "AI/DeepLearning/LOSS/LOSS.md",
     "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "AI/DeepLearning/model_Network/深度生成模型.md",
