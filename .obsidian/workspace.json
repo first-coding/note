@@ -11,6 +11,18 @@
             "id": "fb7642f3b636d401",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AI/Deep-Learning花书-《深度学习》-中文版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Deep-Learning花书-《深度学习》-中文版"
+            }
+          },
+          {
+            "id": "770c72a1b4186940",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "AI/DeepLearning/深度学习（花书二）.md",
@@ -21,20 +33,9 @@
               "icon": "lucide-file",
               "title": "深度学习（花书二）"
             }
-          },
-          {
-            "id": "770c72a1b4186940",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AI/Deep-Learning花书-《深度学习》-中文版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Deep-Learning花书-《深度学习》-中文版"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#模型部署与优化：",
+                "query": "tag:#配分函数：一个概率分布的所有可能状态总和，用于将未归一化的分布进行归一化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,46 +232,45 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "fb7642f3b636d401",
+  "active": "770c72a1b4186940",
   "lastOpenFiles": [
-    "Pasted image 20241227171150.png",
-    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
-    "AI/DeepLearning/深度学习（花书二）.md",
-    "Pasted image 20241227162352.png",
-    "Pasted image 20241227162322.png",
-    "Pasted image 20241227162008.png",
-    "AI/DeepLearning/相关基础知识.md",
     "AI/DeepLearning/深度学习（花书）.md",
-    "AI/DeepLearning/GANS.md",
-    "AI/DeepLearning/Fine tuning.md",
-    "AI/DeepLearning/实践方法&&应用.md",
-    "AI/MachineLearning/数学基础知识.md",
-    "AI/DeepLearning/model_Network/深度生成模型.md",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
-    "AI/DeepLearning/model_Network/ResNet.md",
     "AI/DeepLearning/model_Network/Transformer.md",
+    "AI/DeepLearning/model_Network/GANS.md",
+    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
+    "AI/DeepLearning/model_Network/深度生成模型.md",
+    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
+    "AI/DeepLearning/LOSS/LOSS.md",
+    "AI/DeepLearning/model_Network/ResNet.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/深度学习（花书二）.md",
+    "AI/DeepLearning/实践方法&&应用.md",
+    "AI/DeepLearning/相关基础知识.md",
+    "AI/img/Pasted image 20241228160806.png",
+    "AI/img/Pasted image 20241228160449.png",
+    "AI/img/Pasted image 20241228160441.png",
+    "AI/img/Pasted image 20241228160402.png",
+    "AI/img/Pasted image 20241228150202.png",
+    "AI/img/Pasted image 20241228150201.png",
+    "AI/img/Pasted image 20241228150159.png",
+    "AI/img/Pasted image 20241228150126.png",
+    "AI/img/Pasted image 20241228150107.png",
+    "AI/img/Pasted image 20241228150105.png",
     "AI/AI体系结构.md",
-    "AI/img/Pasted image 20241226174232.png",
-    "Pasted image 20241226174232.png",
-    "AI/img/Pasted image 20241226163707.png",
-    "AI/img/Pasted image 20241211172056.png",
-    "AI/img/Pasted image 20241211172043.png",
-    "AI/img/Pasted image 20241211172025.png",
-    "AI/img/Pasted image 20241211172001.png",
-    "AI/MachineLearning/机器学习.md",
+    "AI/笔试准备.md",
+    "AI/基础知识.md",
+    "AI/西瓜书.pdf",
+    "AI/DeepLearning/Fine tuning.md",
     "AI/Excalidraw/Drawing 2024-07-06 16.24.42.excalidraw.md",
+    "AI/MachineLearning/机器学习.md",
+    "AI/MachineLearning/数学基础知识.md",
     "operating systems/Linux.md",
     "operating systems/OS.md",
-    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
     "AI/Tensorflow/张量.md",
     "AI/Tensorflow/Problem solving.md",
-    "AI/西瓜书.pdf",
-    "AI/基础知识.md",
     "programming language/C++.md",
     "2023-10-29.md",
     "README.md",
-    "架构和寄存器（第二版）说明.md",
-    "计算机知识.md",
     "AI/西瓜书.pdf.crdownload",
     "AI/DeepLearning/LOSS",
     "Excalidraw",
