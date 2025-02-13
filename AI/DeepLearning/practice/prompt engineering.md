@@ -21,3 +21,19 @@
 		- **>1.0**：鼓励生成长文本
 		- **<1.0**：鼓励生成短文本
 	- **大部分常用的是Temperature，top-p/k，Max Length**
+---
+- prompt engineering技术：
+	- prompt由**指令、上下文、例子、输入和输出**组成。
+	- Zero sample prompt：没有例子，即**直接给指令**
+		- `请根据下面的文本生成摘要`
+	- Low sample prompt：部分例子，即**给指令和小部分的例子**
+		- `分类语句的情感，中性、开心或者悲伤`
+		- `例子：我很难过   情感：悲伤   语句：我认为可以   情感：`
+	- chain-of-Thought Prompting：链式思考提示，即**将思考的流程显式的列出来**
+		- `如果盒子里有五个苹果，给了你三个，盒子还剩多少个`
+		- `普通方式：直接说出几个`   `CoT方式：现在盒子里还剩5-3=2` 
+		- **CoT可以和zero sample prompt、Low sample prompt这些合在一起使用**
+	- self-consistency：发送相同的coT提示，即**发送多次相同的coT提示**
+		- ![[Pasted image 20250213181520.png]]
+		- ![[Pasted image 20250213181531.png]]
+	- 
