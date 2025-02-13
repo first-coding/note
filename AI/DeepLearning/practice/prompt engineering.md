@@ -22,7 +22,7 @@
 		- **<1.0**：鼓励生成短文本
 	- **大部分常用的是Temperature，top-p/k，Max Length**
 ---
-- prompt engineering技术：
+- prompt engineering技术：常见的
 	- prompt由**指令、上下文、例子、输入和输出**组成。
 	- Zero sample prompt：没有例子，即**直接给指令**
 		- `请根据下面的文本生成摘要`
@@ -36,4 +36,13 @@
 	- self-consistency：发送相同的coT提示，即**发送多次相同的coT提示**
 		- ![[Pasted image 20250213181520.png]]
 		- ![[Pasted image 20250213181531.png]]
-	- 
+	- Generate knowledge tips：即**知识作为prompt的一部分**，可以提高模型在特定领域的回答精确度
+	- Meta Prompting：通过让模型首先生成并优化提示词,然后再用优化后的提示词来完成实际任务,从而获得更好的结果。
+		- ![[Pasted image 20250213201323.png]]
+	- Prompt Chaining：即**复杂任务分解，然后通过一系列关联的提示逐步完成的技巧**
+		- ![[Pasted image 20250213200449.png]]
+	- Tree of Thoughts：**通过构建思维树，探索多个可能的解决路径，从而找到最优解。**
+		- ![[Pasted image 20250213200636.png]]
+	- Retrieval Augmented Generation：将外部知识检索与语言生成相结合的技巧，能够显著提升模型回答的准确性和可靠性
+		- ![[Pasted image 20250213200809.png]]
+	- PS：还有很多，ART、APE、ReAct框架........
