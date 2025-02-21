@@ -53,7 +53,7 @@ Embedding类型：
 Embedding学习方法：
 	Word2vec，GloVe，BERT等。
 
-Transformer的positonal encoding通过公式进行计算![[Pasted image 20240526155927.png]]
+Transformer的positonal encoding通过公式进行计算,这个是三角位置编码![[Pasted image 20240526155927.png]]
 pos 是位置，i 是嵌入维度的索引，dmodel​ 是嵌入的维度。
 
 ---
