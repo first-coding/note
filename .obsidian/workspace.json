@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/practice/模型压缩.md",
+                "file": "Experience Note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "模型压缩"
-            }
-          },
-          {
-            "id": "9653157fa967a4ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/DeepLearning/model_Network/Transformer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transformer"
+              "title": "Experience Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,8 +262,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9653157fa967a4ef",
+  "active": "4fe357e5ba64d758",
   "lastOpenFiles": [
+    "AI/other/准备.md",
+    "Experience Note.md",
+    "AI/DeepLearning/practice/模型压缩.md",
+    "AI/MachineLearning/机器学习.md",
+    "operating systems/架构和寄存器（第二版）.md",
+    "operating systems/操作系统知识.md",
+    "2023-10-29.md",
+    "计算机知识.md",
+    "架构和寄存器（第二版）说明.md",
+    "AI/other/AI体系结构.md",
+    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
+    "AI/Problem solving.md",
+    "AI/Tensorflow/张量.md",
+    "AI/Tensorflow/Basic.md",
+    "AI/基础知识.md",
+    "AI/MachineLearning/数学基础知识.md",
+    "AI/DeepLearning/practice/prompt engineering.md",
+    "AI/DeepLearning/practice/Fine tuning.md",
+    "AI/DeepLearning/Theory/深度学习（花书）.md",
+    "AI/DeepLearning/Theory/深度学习（花书二）.md",
+    "AI/DeepLearning/Theory/相关基础知识.md",
+    "AI/DeepLearning/model_Network/Attention.md",
+    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
+    "AI/DeepLearning/model_Network/深度生成模型.md",
+    "AI/DeepLearning/model_Network/网络模块.md",
+    "AI/DeepLearning/LOSS/LOSS.md",
+    "AI/DeepLearning/practice/激活函数.md",
+    "AI/西瓜书.pdf",
     "AI/img/Pasted image 20250221153118.png",
     "AI/img/Pasted image 20250221152706.png",
     "AI/img/Pasted image 20250221152700.png",
@@ -296,40 +299,12 @@
     "AI/img/Pasted image 20250221153947.png",
     "AI/img/Pasted image 20250221153826.png",
     "AI/img/Pasted image 20250221153328.png",
-    "AI/DeepLearning/model_Network/网络模块.md",
-    "AI/DeepLearning/model_Network/深度生成模型.md",
-    "AI/DeepLearning/model_Network/循环神经网络（RNN）.md",
-    "AI/DeepLearning/model_Network/卷积神经网络（CNN）.md",
-    "AI/DeepLearning/practice/模型压缩.md",
-    "AI/DeepLearning/practice/激活函数.md",
-    "AI/DeepLearning/model_Network/Transformer.md",
-    "AI/DeepLearning/model_Network/SRCNN、SRGAN、ESRGAN.md",
-    "AI/DeepLearning/model_Network/GANS.md",
-    "AI/DeepLearning/model_Network/ResNet.md",
-    "AI/DeepLearning/model_Network/Attention.md",
-    "AI/DeepLearning/LOSS/LOSS.md",
     "Pasted image 20250221153957.png",
     "Pasted image 20250221153947.png",
     "Pasted image 20250221153826.png",
-    "Pasted image 20250221153328.png",
-    "AI/DeepLearning/Theory/深度学习（花书）.md",
-    "AI/DeepLearning/Theory/深度学习（花书二）.md",
-    "AI/DeepLearning/Theory/相关基础知识.md",
-    "AI/other/AI体系结构.md",
-    "AI/other/准备.md",
-    "code/SRCNN、SRGAN、ESRGAN(code).md",
-    "AI/DeepLearning/practice/实践方法&&应用.md",
-    "AI/DeepLearning/practice/prompt engineering.md",
-    "AI/DeepLearning/practice/Fine tuning.md",
-    "AI/MachineLearning/机器学习.md",
-    "AI/MachineLearning/数学基础知识.md",
-    "AI/基础知识.md",
-    "Computer Network/Excalidraw&img/Drawing 2023-08-30 17.04.19.excalidraw.md",
-    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
     "未命名.canvas",
     "AI/other",
     "AI/新建文件夹",
-    "AI/西瓜书.pdf",
     "AI/DeepLearning/practice",
     "AI/DeepLearning/新建文件夹",
     "AI/DeepLearning/Theory",

@@ -8,17 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Computer Network\"",
+      "query": "path:AI  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:/",
+      "query": "path:\"Computer Network\"  ",
       "color": {
         "a": 1,
-        "rgb": 2434083
+        "rgb": 13683906
+      }
+    },
+    {
+      "query": "path:Excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 8146431
+      }
+    },
+    {
+      "query": "path:img  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"operating systems\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0,
   "linkDistance": 500,
-  "scale": 0.015355906606692782,
+  "scale": 0.015355906606692754,
   "close": false
 }

@@ -1,0 +1,38 @@
+- langchain原理：
+	- 由**models、Agent、Chain、Indexes、Memory、prompt、shema**组成
+		- models：LLMs、chatModels、Text Embedding models
+			- chatModels：存在**聊天消息的标准接口**，支持AImessage、HumanMessage、Systemmessage、ChatMessage格式
+			- Embedding models：高维的离散数据转化为低维连续向量，接着就可以计算相似度、检索等相关操作
+			- LLMs：langchain支持大部分常见的LLMs
+		- Prompt：见[[prompt engineering]]
+		- Indexes：对文档进行结构化，由**Document Loaders、Text Splitters、Vectorstores、Retrievers**组成
+		- chains：将多个组件组合在一起，完成更加复杂的任务
+		- Memory：记忆组件，可以将提问与回答保存下来，由**ConversationBufferMemory（聊天记录保存在内存中）、ConversationBufferWindowMemory（在第一个基础加入窗口参数，会保存k个聊天记录）、ConversationTokenBufferMemory（在内存中保存最近交互缓冲区，使用token长度确定何时刷新）、ConversationSummaryMemory（保存一个用户和模型聊天内容摘要）、ConversationSummaryBufferMemory(存储一个用户和模型聊天并使用token何时刷新)、VectorStoreRetrieverMemory（所有之前对话通过向量方式存储到向量数据库，每一轮新对话根据输入信息匹配最相似k组对话）**
+		- Agents：代理可以访问一套工具，并根据用户输入确定要使用哪些工具。简单的理解为他可以动态的帮我们选择和调用 chain 或者已有的工具。
+			- Action Agents：每一个时间步，之前动作的输出决定下一个动作
+			- Plan-and-execute agents：预先决定操作顺序，执行所有操作
+- LLM复读机问题：**生成文本时重复之前的内容**
+	- 原因：存在多种原因，**模型对过去信息过度依赖、模型在处理长序列时的注意力机制失效**。
+	- 解决方法：**数据增强**（通过增加训练数据的多样性、复杂性）、**模型改进**、**生成策略**（采用多样性策略，**抽样生成、引入随机性**）
+- 大模型处理更长文本：**模型架构、加入内存机制（外部记忆/缓存）、分块（长文本分割更小的部分，之后分别处理）**
+- 节省模型内存的方法：
+	- **模型剪纸**：移除模型冗余结构和参数、减少内存占用
+	- **知识蒸馏**：使用一个**大型教师模型**指导**小型学生模型**，学习大型教师模型，减少内存占用。
+	- **量化**：高精度转低精度
+	- **模型并行**：将大型模型分割多个设备上进行训练和推理
+	- **数据并行**：将训练数据分割到多个设备上，每个设备训练模型的一个副本，减少单个设备的内存需求。
+	- **动态批处理**：根据可用内存动态调整批量大小，以适应内存限制。
+- linux docket和windows docket：
+	- 在linux docket可以直接运行，**无需额外的虚拟化**
+	- docket的文件系统使用的是linux上的文件系统，能高效的共享文件。
+	- 在Linux上启动速度更快、资源开销更低
+	- linux兼容性较windows好很多
+	- 适用于大多数基于docket的开发、测试和生产环境
+- 划分词的方式：
+	- 基于规则的分词：根据语言语法规则和词典进行分词，但覆盖率有限，可能会出现未登录的词
+	- 基于统计的分词：利用大量的语料库，通过统计词语共现频率和统计模型来划分词
+	- 基于机器学习的分词：利用机器学习模型，根据大量的标注数据来训练自动进行分词
+	- 基于深度学习的分词：通过构建神经网络，从数据中学习更为复杂的词语边界信息
+	- 基于子词单元的方法：子词可以是词的片段或是更细粒度的单位，减少未登录词问题。
+- python的数据类型：int、float、bool、str、list、tuple、set、dict、NoneType
+- 多线程和多进程：**多线程**可以在同一进程并发执行多个线程，线程共享内存资源，适合I/O密集型任务，但python通过GIL限制，并不能真正并行。**多进程**通过独立的进程并行执行，每个进程都有独立的内存空间，适合CPU密集型任务，能够充分利用多核CPU，进行真正的并行计算。
