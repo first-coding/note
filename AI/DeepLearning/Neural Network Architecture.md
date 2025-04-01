@@ -1,0 +1,42 @@
+- **Transformer架构**：[[Transformer]]
+- **CNN架构**：[[卷积神经网络（CNN）]]
+	- **代表模型**：AlexNet、VGG、ResNet
+	- **特点**：
+		- 卷积层提取特征，池化层减少计算
+		- 主要用于计算机视觉
+	- 变体：EfficientNet、ConvNeXt
+- **RNN/LSTM/GRU**：[[循环神经网络（RNN）]]
+	- **代表模型**：Seq2seq、WaveNet
+	- **特点**：
+		- 适用于序列数据建模（语音、文本）
+		- 已被Transformer取代，但仍用于低算力场景
+- **Mamba**
+	- **代表模型**：Mamba
+	- **特点**：
+		- 由 Stanford 提出，挑战 Transformer
+		- 计算复杂度 O(n)，适用于长序列任务
+		- 适用场景：文本处理、语音识别等
+- **GNN（图神经网络）**
+	- **代表模型**：GCN, GAT, GraphSAGE
+	- **特点**：
+		- 适用于图结构数据，如社交网络、推荐系统、药物发现
+- **Capsule Network（胶囊网络）**
+	- **特点**：
+		- 由 Geoffrey Hinton 提出，解决 CNN 空间信息丢失问题
+		- 计算开销较大，尚未普及
+- **GAN（生成对抗）&&Difussion models（扩散模型）**[[GANS]]
+	- **GAN**：
+		- **代表模型**：StyleGAN、BigGAN
+		- **特点**：
+			- 适用于图像生成、DeepFake
+			- 采用生成器 vs 判别器对抗训练
+	- **Diffusion Models**：
+		- **代表模型**：Stable Diffusion, DALL·E
+		- **特点**
+			- 目前最强的文本生成图像技术（SOTA）
+			- 通过逐步去噪还原真实数据
+- **SNN**：
+	- **代表模型**：Spiking Transformers、Neuromorphic Computing。
+	- **特点**：
+	    - 模仿生物神经元，事件驱动计算
+	    - 适用于低功耗 AI（如嵌入式设备）
