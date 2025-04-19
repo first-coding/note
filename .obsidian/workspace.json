@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Note.md",
+                "file": "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experience Note"
+              "title": "深度生成模型"
             }
           }
         ]
@@ -262,8 +262,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6725df875eb2108f",
+  "active": "74c0a35361e811d6",
   "lastOpenFiles": [
+    "AI/DeepLearning/model_Network/GEN/VAE.md",
+    "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
+    "AI/DeepLearning/model_Network/GEN/GANS.md",
+    "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
+    "Experience Note.md",
     "AI/DeepLearning/practice/Prompt engineering/prompt engineering.md",
     "AI/DeepLearning/practice/归一化.md",
     "AI/DeepLearning/practice/激活函数.md",
@@ -283,16 +288,11 @@
     "AI/MachineLearning/机器学习.md",
     "AI/other/AI体系结构.md",
     "AI/西瓜书.pdf",
-    "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
-    "AI/DeepLearning/model_Network/GEN/GANS.md",
     "AI/MachineLearning/基础知识.md",
     "AI/MachineLearning/数学基础知识.md",
-    "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
     "Pasted image 20250412215945.png",
     "AI/Excalidraw/Drawing 2024-03-08 17.26.19.excalidraw.md",
     "AI/DeepLearning/model_Network/网络模块.md",
-    "Experience Note.md",
-    "programming language/C++.md",
     "img/Pasted image 20240430151811.png",
     "AI/DeepLearning/practice/模型压缩",
     "AI/DeepLearning/practice/Prompt engineering",
