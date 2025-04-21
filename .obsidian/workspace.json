@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
+                "file": "AI/DeepLearning/model_Network/GEN/VAE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "深度生成模型"
+              "title": "VAE"
             }
           }
         ]
@@ -264,15 +264,15 @@
   },
   "active": "74c0a35361e811d6",
   "lastOpenFiles": [
+    "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
+    "AI/DeepLearning/model_Network/GEN/VAE.md",
     "AI/DeepLearning/model_Network/GEN/GANS.md",
     "AI/DeepLearning/Theory/深度学习（花书）.md",
-    "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
     "AI/DeepLearning/Theory/相关基础知识（数学等相关）.md",
     "AI/DeepLearning/model_Network/网络模块.md",
     "AI/DeepLearning/model_Network/Transformer/Transformer.md",
     "AI/DeepLearning/model_Network/Transformer/Attention.md",
     "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
-    "AI/DeepLearning/model_Network/GEN/VAE.md",
     "Experience Note.md",
     "AI/DeepLearning/practice/Prompt engineering/prompt engineering.md",
     "AI/DeepLearning/practice/归一化.md",
