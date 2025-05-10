@@ -8,10 +8,11 @@
 	- 常用于SVM
 	- ![[Pasted image 20241026173156.png]]
 - 对抗损失 ^cb7f0c
+	- 详见[GAN论文](https://arxiv.org/pdf/1406.2661)
 	- ![[Pasted image 20250108163041.png]]
 - 感知对抗损失：
 	- 一句话：![[Pasted image 20250108165949.png]]
-- **WGAN**：![[Pasted image 20250107152012.png]]
+- **WGAN**：![[Pasted image 20250107152012.png]] ^63e6b7
 	- **判别器需要最大化真实数据分布的评分，最小化生成数据的评分**
 	- **而生成器式最大化$L_G$**
 

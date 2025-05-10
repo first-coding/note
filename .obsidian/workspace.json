@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a71f3818e0bcc1c3",
+        "id": "48a417bdd19db464",
         "type": "tabs",
         "children": [
           {
-            "id": "74c0a35361e811d6",
+            "id": "a68cf575d5ffcef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/GEN/VAE.md",
+                "file": "AI/DeepLearning/model_Network/Transformer/Transformer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "VAE"
+              "title": "Transformer"
+            }
+          },
+          {
+            "id": "7dcaf163fddb4f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/DeepLearning/model_Network/GEN/GANS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GANS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,38 +287,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74c0a35361e811d6",
+  "active": "7dcaf163fddb4f61",
   "lastOpenFiles": [
+    "AI/img/Pasted image 20250510154844.png",
+    "AI/img/Pasted image 20250510154727.png",
+    "AI/img/Pasted image 20250510154713.png",
+    "AI/img/Pasted image 20250510153013.png",
+    "AI/img/Pasted image 20250510152957.png",
+    "AI/img/Pasted image 20250510152751.png",
+    "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
     "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
     "AI/DeepLearning/model_Network/GEN/VAE.md",
     "AI/DeepLearning/model_Network/GEN/GANS.md",
-    "AI/DeepLearning/Theory/深度学习（花书）.md",
+    "Pasted image 20250510154844.png",
+    "Pasted image 20250510154727.png",
+    "Pasted image 20250510154713.png",
+    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
+    "AI/DeepLearning/model_Network/CNN/ResNet.md",
+    "AI/DeepLearning/LOSS/LOSS.md",
+    "AI/DeepLearning/model_Network/CNN/卷积神经网络（CNN）.md",
+    "Pasted image 20250510153013.png",
+    "Pasted image 20250510152957.png",
     "AI/DeepLearning/Theory/相关基础知识（数学等相关）.md",
-    "AI/DeepLearning/model_Network/网络模块.md",
-    "AI/DeepLearning/model_Network/Transformer/Transformer.md",
+    "AI/DeepLearning/Theory/深度学习（花书）.md",
     "AI/DeepLearning/model_Network/Transformer/Attention.md",
-    "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
-    "Experience Note.md",
+    "AI/DeepLearning/model_Network/Transformer/Transformer.md",
+    "AI/DeepLearning/model_Network/网络模块.md",
+    "AI/DeepLearning/practice/模型压缩/模型压缩.md",
+    "AI/DeepLearning/practice/Fine tuning/Fine tuning.md",
     "AI/DeepLearning/practice/Prompt engineering/prompt engineering.md",
     "AI/DeepLearning/practice/归一化.md",
     "AI/DeepLearning/practice/激活函数.md",
-    "AI/DeepLearning/practice/Fine tuning/Fine tuning.md",
-    "AI/DeepLearning/practice/模型压缩/模型压缩.md",
-    "2023-10-29.md",
-    "计算机知识.md",
-    "架构和寄存器（第二版）说明.md",
-    "README.md",
-    "AI/DeepLearning/Neural Network Architecture.md",
     "AI/DeepLearning/practice/实践方法&&应用.md",
-    "AI/Deep-Learning花书-《深度学习》-中文版.pdf",
-    "AI/Problem solving.md",
     "AI/DeepLearning/Theory/深度学习（花书二）.md",
-    "AI/MachineLearning/机器学习.md",
-    "AI/other/AI体系结构.md",
+    "AI/DeepLearning/model_Network/RNN/循环神经网络（RNN）.md",
+    "Experience Note.md",
+    "README.md",
+    "AI/Excalidraw/Drawing 2024-07-07 11.37.55.excalidraw.md",
+    "计算机知识.md",
+    "AI/DeepLearning/Neural Network Architecture.md",
+    "Untitled.canvas",
     "AI/西瓜书.pdf",
-    "AI/MachineLearning/基础知识.md",
-    "Pasted image 20250412215945.png",
-    "img/Pasted image 20240430151811.png",
     "AI/DeepLearning/practice/模型压缩",
     "AI/DeepLearning/practice/Prompt engineering",
     "AI/DeepLearning/practice/Fine tuning",
@@ -301,14 +335,6 @@
     "AI/DeepLearning/model_Network/GEN",
     "AI/DeepLearning/model_Network/RNN",
     "AI/DeepLearning/model_Network/CNN",
-    "operating systems/Excalidraw&img/Pasted image 20231025195543.png",
-    "AI/img/Pasted image 20250318125333.png",
-    "AI/img/Pasted image 20250318125309.png",
-    "AI/img/Pasted image 20250318124957.png",
-    "AI/img/Pasted image 20250318124923.png",
-    "Pasted image 20250318125333.png",
-    "Pasted image 20250318125309.png",
-    "Pasted image 20250318124957.png",
     "未命名.canvas",
     "AI/other"
   ]
