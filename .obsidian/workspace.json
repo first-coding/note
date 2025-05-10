@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DeepLearning/model_Network/GEN/GANS.md",
+                "file": "AI/other/RAG技术.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GANS"
+              "title": "RAG技术"
             }
           }
         ],
@@ -289,6 +289,8 @@
   },
   "active": "7dcaf163fddb4f61",
   "lastOpenFiles": [
+    "AI/DeepLearning/model_Network/GEN/GANS.md",
+    "AI/other/RAG技术.md",
     "AI/img/Pasted image 20250510154844.png",
     "AI/img/Pasted image 20250510154727.png",
     "AI/img/Pasted image 20250510154713.png",
@@ -298,7 +300,6 @@
     "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
     "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
     "AI/DeepLearning/model_Network/GEN/VAE.md",
-    "AI/DeepLearning/model_Network/GEN/GANS.md",
     "Pasted image 20250510154844.png",
     "Pasted image 20250510154727.png",
     "Pasted image 20250510154713.png",
@@ -307,7 +308,6 @@
     "AI/DeepLearning/LOSS/LOSS.md",
     "AI/DeepLearning/model_Network/CNN/卷积神经网络（CNN）.md",
     "Pasted image 20250510153013.png",
-    "Pasted image 20250510152957.png",
     "AI/DeepLearning/Theory/相关基础知识（数学等相关）.md",
     "AI/DeepLearning/Theory/深度学习（花书）.md",
     "AI/DeepLearning/model_Network/Transformer/Attention.md",
