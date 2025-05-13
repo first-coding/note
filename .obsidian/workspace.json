@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Note.md",
+                "file": "AI/DeepLearning/practice/模型压缩/模型压缩.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experience Note"
+              "title": "模型压缩"
             }
           }
         ]
@@ -218,17 +218,17 @@
   },
   "active": "972e98e56a1c6e3d",
   "lastOpenFiles": [
-    "AI/DeepLearning/practice/模型蒸馏.md",
-    "Experience Note.md",
-    "AI/other/RAG技术.md",
-    "AI/DeepLearning/practice/Fine tuning/Fine tuning.md",
+    "AI/DeepLearning/practice/模型压缩/知识蒸馏.md",
     "AI/DeepLearning/practice/模型压缩/模型压缩.md",
+    "AI/other/RAG技术.md",
+    "AI/DeepLearning/Theory/深度学习（花书）.md",
+    "Experience Note.md",
+    "AI/DeepLearning/practice/Fine tuning/Fine tuning.md",
     "AI/DeepLearning/model_Network/GEN/深度生成模型.md",
     "AI/DeepLearning/practice/实践方法&&应用.md",
     "AI/DeepLearning/model_Network/GEN/GANS.md",
     "AI/DeepLearning/practice/激活函数.md",
     "AI/other/AI体系结构.md",
-    "AI/DeepLearning/Theory/深度学习（花书）.md",
     "AI/DeepLearning/Theory/深度学习（花书二）.md",
     "AI/DeepLearning/Neural Network Architecture.md",
     "AI/DeepLearning/Theory/相关基础知识（数学等相关）.md"
