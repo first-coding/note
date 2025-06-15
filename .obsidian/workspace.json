@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experience Note.md",
+                "file": "AI/DeepLearning/model_Network/Wav_model/Wav2vec2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Experience Note"
+              "title": "Wav2vec2.0"
             }
           }
         ]
@@ -216,8 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b486b6eb8cf4c9a",
+  "active": "f0ccf2c9efcde211",
   "lastOpenFiles": [
+    "AI/DeepLearning/model_Network/Wav_model/conformer.md",
+    "AI/DeepLearning/model_Network/Wav_model/whisper.md",
+    "Experience Note.md",
     "AI/img/Pasted image 20250615165254.png",
     "AI/img/Pasted image 20250615165247.png",
     "AI/img/Pasted image 20250615165239.png",
@@ -228,12 +231,9 @@
     "Pasted image 20250615165239.png",
     "Pasted image 20250615165229.png",
     "Pasted image 20250615165200.png",
-    "img/Pasted image 20250615165254.png",
     "AI/DeepLearning/model_Network/Wav_model/Wav2vec2.0.md",
-    "AI/DeepLearning/model_Network/Wav_model/conformer.md",
     "Excalidraw/Drawing 2025-06-15 14.34.34.excalidraw.md",
     "AI/DeepLearning/model_Network/网络模块.md",
-    "AI/DeepLearning/model_Network/Wav_model/whisper.md",
     "AI/DeepLearning/practice/Prompt engineering/prompt engineering.md",
     "AI/DeepLearning/model_Network/GEN/SRCNN、SRGAN、ESRGAN.md",
     "AI/DeepLearning/model_Network/GEN/GANS.md",
